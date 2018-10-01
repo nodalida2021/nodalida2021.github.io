@@ -8,11 +8,11 @@ layout: default
 
 ## Program Chairs
 
-* **Richard Johansson**, Chalmers Technical University and University of Gothenburg, Sweden
+* **Richard Johansson (Workshop Chair)**, Chalmers Technical University and University of Gothenburg, Sweden
 * **Jurgita Kapočiūtė-Dzikienė**, Vytautas Magnus University, Lithuania
 * **Hrafn Loftsson**, Reykjavík University, Iceland
 * **Patrizia Paggio**, University of Copenhagen, Denmark
-* **Kairit Sirts**, University of Tartu, Estonia
+* **Kairit Sirts (Workshop Chair)**, University of Tartu, Estonia
 * **Jörg Tiedemann**, University of Helsinki, Finland
 * **Erik Velldall**, University of Oslo, Norway
 * **Mareike Hartmann (Publication Chair)**, University of Copenhagen, Denmark
