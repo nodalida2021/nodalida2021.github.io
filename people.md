@@ -15,8 +15,8 @@ layout: default
 * **Kairit Sirts**, University of Tartu, Estonia
 * **Jörg Tiedemann**, University of Helsinki, Finland
 * **Erik Velldall**, University of Oslo, Norway
-* **Mareike Hartmann** (Publication Chair), University of Copenhagen, Denmark
-* **Miryam de Lhoneux** (Social Media Chair), Uppsala University, Sweden
+* **Mareike Hartmann (Publication Chair)**, University of Copenhagen, Denmark
+* **Miryam de Lhoneux (Social Media Chair)**, Uppsala University, Sweden
 
 
 ## Local Chairs
