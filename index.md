@@ -2,12 +2,12 @@
 layout: default
 ---
 
-The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be held in Turku, Finland.
+The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be held in Turku, Finland. The conference is a two-day event with one additional day of workshops.
 
 <!-- Box -->
 <div class="box">
   <p><b>LATEST NEWS</b></p>
-  <p><b>Oct. 1st</b>  Program Comittee announced</p>
+  <p><b>Oct. 1st</b> <a href="people.html"> Programme Comittee announced </a></p>
 </div>
 
 ## Important dates <a id="dates"></a>
@@ -24,5 +24,3 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
     </tbody>
   </table>
 </div>
-
-      
