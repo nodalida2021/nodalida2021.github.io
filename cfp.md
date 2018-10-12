@@ -69,10 +69,7 @@ in PDF, and uploaded through the on-line conference system.
 Paper submissions that violate either of these
 requirements will be returned without review.
 
-The page limits for submissions are: up to eight pages for regular
-papers, up to four pages for short papers, student papers and demo papers.  
-For all three submission types, these page limits do
-/not/ include additional pages with bibliographic references.  
+The page limits for submissions are: up to eight pages for regular papers, up to four pages for short papers and demo papers, and up to six pages for student papers. For all three submission types, these page limits do /not/ include additional pages with bibliographic references.
 
 SUBMISSION MANAGEMENT
 
