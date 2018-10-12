@@ -87,13 +87,13 @@ submission, reviewing, and preparation of proceedings.
 https://easychair.org/conferences/?conf=nodalida2019
 
 
-PROGRAM COMMITTEE
+## PROGRAM COMMITTEE
 
-## General Chair
+### General Chair
 
 * **Barbara Plank**, IT University of Copenhagen, Denmark
 
-## Program Chairs
+### Program Chairs
 
 * **Mareike Hartmann (Publication Chair)**, University of Copenhagen, Denmark
 * **Richard Johansson (Workshop Chair)**, Chalmers Technical University and University of Gothenburg, Sweden
@@ -105,7 +105,7 @@ PROGRAM COMMITTEE
 * **Jörg Tiedemann**, University of Helsinki, Finland
 * **Erik Velldall**, University of Oslo, Norway
 
-## Local Chairs
+### Local Chairs
 
 * **Filip Ginter**, University of Turku, Finland
 * **Jenna Kanerva**, University of Turku, Finland
