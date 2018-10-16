@@ -16,7 +16,7 @@ CALL FOR PAPERS
 The Northern European Association for Language Technology (NEALT)
 invites submissions to its bi-annual conference on human language and
 speech technologies.  NoDaLiDa 2019 will be held between Monday, 
-September 30 and Tuesday, October 2, 2019, on the campus of the 
+September 30 and Wednesday, October 2, 2019, on the campus of the 
 University of Turku, Finland.  
 
 
