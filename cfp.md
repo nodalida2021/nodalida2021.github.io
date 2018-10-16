@@ -23,9 +23,9 @@ SUBMISSIONS
 
 NoDaLiDa addresses all aspects of natural language processing, speech
 recognition and synthesis and computational linguistics, including work
-in closely-related neighboring disciplines (such as, for example,
-linguistics or psychology) that is sufficiently formalized or applied
-to bear relevance to speech and language technologies.
+in closely-related neighboring disciplines (such as, for example, machine
+learning, linguistics or psychology) that is sufficiently formalized or 
+applied to bear relevance to speech and language technologies.
 
 We invite paper submissions in three distinct tracks:
 
