@@ -109,4 +109,8 @@ https://easychair.org/conferences/?conf=nodalida2019
 * **Jenna Kanerva**, University of Turku, Finland
 
 
+For inquiries, send an email to:
+
+nodalida2019-org@googlegroups.com
+
 Follow us on Twitter: https://twitter.com/NoDaLiDa
