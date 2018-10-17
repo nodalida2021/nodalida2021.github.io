@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# The 22th Nordic Conference on Computational Linguistics (NoDaLiDa)
+# 22nd Nordic Conference on Computational Linguistics (NoDaLiDa)
 
 September 30 - October 2, 2019
 University of Turku, Turku, Finland
