@@ -60,7 +60,7 @@ All submissions must follow the NoDaLiDa 2019 style files, which are
 available for LaTeX (preferred) and MS Word and can be
 retrieved from the following address:
 
-  http://www.nodalida.org/nodalida.tar.gz  
+  http://www.nodalida2019.org/authorkit.zip  
 
 Submissions must be anonymous, i.e. not reveal author(s) on the title
 page or through self-references.  Papers must be submitted digitally,
