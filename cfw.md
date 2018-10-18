@@ -11,7 +11,7 @@ http://www.nodalida2019.org
 
 ## CALL FOR WORKSHOP PROPOSALS
 
-The Northern European Association for Language Technology (NEALT) invites proposals for workshop at its bi-annual conference on human language and speech technologies.  NoDaLiDa 2019 will be held between September 30 and October 2, 2019 on the campus of the University of Turku in Finland.
+The Northern European Association for Language Technology (NEALT) invites proposals for workshops at its bi-annual conference on human language and speech technologies.  NoDaLiDa 2019 will be held between September 30 and October 2, 2019 on the campus of the University of Turku in Finland.
 
 NoDaLiDa addresses all aspects of natural language processing, speech recognition and synthesis and computational linguistics, including work in closely-related neighboring disciplines (such as, for example, machine learning, linguistics or psychology) that is sufficiently formalized or applied to bear relevance to speech and language technologies.
 
