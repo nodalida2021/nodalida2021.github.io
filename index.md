@@ -17,9 +17,9 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
   <table>
     <tbody>
       <tr><td>Submission - main conference</td> <td> May 31, 2019 </td></tr>
-      <tr><td>Submission - workshops</td> <td> February 25, 2019 </td></tr>
+      <tr><td>Submission - workshop proposals</td> <td> February 25, 2019 </td></tr>
       <tr><td>Notification - main conference</td> <td> July 12, 2019 </td></tr>
-      <tr><td>Notification - workshops</td> <td> March 18, 2019 </td></tr>
+      <tr><td>Notification - workshop proposals</td> <td> March 18, 2019 </td></tr>
       <tr><td>Main conference</td> <td> October 1-2, 2019 </td></tr>
       <tr><td>Workshops</td> <td> September 30, 2019 </td></tr>
     </tbody>
