@@ -41,7 +41,7 @@ The assessment and selection of workshop proposals will be made by the NoDaLiDa 
 * Richard Johansson, University of Gothenburg and Chalmers University of Technology, Sweden
 * Kairit Sirts, University of Tartu, Estonia
 
-To inquire about the workshop submission process or any practical aspect about the organization of workshops, please email [nodalida-2019-workshops@googlegroups.com].
+To inquire about the workshop submission process or any practical aspect about the organization of workshops, please email nodalida-2019-workshops@googlegroups.com.
 
 ## PROGRAMME COMMITTEE
 
@@ -58,6 +58,6 @@ To inquire about the workshop submission process or any practical aspect about t
 * Jörg Tiedemann, University of Helsinki, Finland
 * Erik Velldall, University of Oslo, Norway
 
-For any question about the conference in general, please email [nodalida2019-org@googlegroups.com].
+For any question about the conference in general, please email nodalida2019-org@googlegroups.com.
 
-Follow us on Twitter: [https://twitter.com/NoDaLiDa]
+Follow us on Twitter: https://twitter.com/NoDaLiDa
