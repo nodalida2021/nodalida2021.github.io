@@ -31,7 +31,7 @@ Workshop proposals must include adequate information on at least the following a
 * Monday, March 18, 2019: Notification of workshop selection
 * August 2, 2019: Recommended workshop paper submission deadline
 * Friday, September 6, 2019: Camera-ready workshop papers due
-* Monday, September 30, 2019: Pre-conference Workshops
+* Monday, September 30, 2019: Pre-conference workshops
 
 Organizers of accepted proposals will be responsible for publicizing and running the workshop, including sending out calls for papers, reviewing submissions, producing the camera ready workshop proceedings, and organizing the meeting days.
 
