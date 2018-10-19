@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# 22nd Nordic Conference on Computational Linguistics (NoDaLiDa)
+## 22nd Nordic Conference on Computational Linguistics (NoDaLiDa)
 
 September 30 - October 2, 2019
 University of Turku, Turku, Finland
@@ -11,7 +11,7 @@ University of Turku, Turku, Finland
 http://www.nodalida2019.org
 
 
-CALL FOR PAPERS
+## CALL FOR PAPERS
 
 The Northern European Association for Language Technology (NEALT)
 invites submissions to its bi-annual conference on human language and
@@ -20,7 +20,7 @@ September 30 and Wednesday, October 2, 2019, on the campus of the
 University of Turku, Finland.  
 
 
-SUBMISSIONS  
+### SUBMISSIONS  
 
 NoDaLiDa addresses all aspects of natural language processing, speech
 recognition and synthesis and computational linguistics, including work
@@ -37,12 +37,16 @@ We invite paper submissions in three kinds:
 * demonstration papers on software or resource demonstrations, e.g. of
   systems, interfaces, infrastructures, data collections, or annotations.
 
+We particularly encourage the submission of papers on completed or 
+on-going work, where the first author is a Master or PhD student. This should
+be indicated at submission time.
+
 Papers accepted for presentation at the conference will be included in
 the NoDaLiDa 2019 proceedings, which is published as part of the NEALT
 Proceedings Series by Linköping University Electronic Press and in the
 ACL Anthology.
 
-SCHEDULE
+### SCHEDULE
 
 * Friday, May 31, 2019: Submission of Papers
 * Friday, July 12, 2019: Notification of Acceptance
@@ -50,7 +54,7 @@ SCHEDULE
 * Monday, September 30, 2019: Pre-Conference Workshops
 * Tuesday and Wednesday, October 1-2, 2019: Main Conference
 
-SUBMISSION FORMATS
+### SUBMISSION FORMATS
 
 All submissions must follow the NoDaLiDa 2019 style files, which are
 available for LaTeX (preferred) and MS Word and can be
@@ -60,35 +64,26 @@ retrieved from the following address:
 
 Submissions must be anonymous, i.e. not reveal author(s) on the title
 page or through self-references.  Papers must be submitted digitally,
-in PDF, and uploaded through the on-line conference system.  
-Paper submissions that violate either of these
+in PDF, and uploaded through the on-line conference system. Paper submissions that violate either of these
 requirements will be returned without review.
-
-We particularly encourage the submission of papers on completed or 
-on-going work, where the first author is a Master or PhD student. This should
-be indicated at submission type.
 
 The page limits for submissions are: up to eight pages for regular papers, 
 and up to four pages for short papers and demo papers. 
-For all three submission types, these page limits do /not/ include 
+For all three submission types, these page limits do *not* include 
 additional pages with bibliographic references.
 
-DOUBLE SUBMISSION
+### DOUBLE SUBMISSION and PRE-PUBLICATION
 
-Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NoDALiDa 2019. Authors of papers accepted for presentation at NoDALiDa must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
+Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NoDALiDa 2019. Authors of papers accepted for presentation at NoDALiDa must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. NoDALiDA follows the [ACL policy an anonymization and anonymity period](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
-PRE-PUBLICATION
+The anonymity period for NoDaLiDa 2019 is from April 30, 2019.
 
-NoDALiDA follows the ACL policy an anonymization and anonymity period. [https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation]
-
-The anonymity period for NoDaLiDa 2019 is from April 30, 2019.;
-
-SUBMISSION MANAGEMENT
+### SUBMISSION MANAGEMENT
 
 Submissions to the conference must be uploaded electronically, obeying 
 the above requirements and no later than (end of day, world-wide):
 
-Friday, May 31, 2019
+**Friday, May 31, 2019**
 
 NoDaLiDa 2019 utilizes the EasyChair conference management system for 
 submission, reviewing, and preparation of proceedings. 
