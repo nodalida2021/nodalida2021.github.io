@@ -37,14 +37,10 @@ We invite paper submissions in three kinds:
 * demonstration papers on software or resource demonstrations, e.g. of
   systems, interfaces, infrastructures, data collections, or annotations.
 
-We particularly encourage the submission of student papers on completed or 
-on-going work, where the first author is a Master or PhD student.
-
 Papers accepted for presentation at the conference will be included in
 the NoDaLiDa 2019 proceedings, which is published as part of the NEALT
-Proceedings Series by Linköping University Electronic Press. 
-Negotiations are underway to include the proceedings in the 
-ACL Anthology: http://aclweb.org/anthology-new/ as well.
+Proceedings Series by Linköping University Electronic Press and in the
+ACL Anthology.
 
 SCHEDULE
 
@@ -68,10 +64,24 @@ in PDF, and uploaded through the on-line conference system.
 Paper submissions that violate either of these
 requirements will be returned without review.
 
+We particularly encourage the submission of papers on completed or 
+on-going work, where the first author is a Master or PhD student. This should
+be indicated at submission type.
+
 The page limits for submissions are: up to eight pages for regular papers, 
 and up to four pages for short papers and demo papers. 
 For all three submission types, these page limits do /not/ include 
 additional pages with bibliographic references.
+
+DOUBLE SUBMISSION
+
+Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NoDALiDa 2019. Authors of papers accepted for presentation at NoDALiDa must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
+
+PRE-PUBLICATION
+
+NoDALiDA follows the ACL policy an anonymization and anonymity period. [https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation]
+
+The anonymity period for NoDaLiDa 2019 is from April 30, 2019.;
 
 SUBMISSION MANAGEMENT
 
