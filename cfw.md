@@ -57,7 +57,7 @@ To inquire about the workshop submission process or any practical aspect about t
 * Patrizia Paggio, University of Copenhagen, Denmark
 * Kairit Sirts (Workshop Chair), University of Tartu, Estonia
 * Jörg Tiedemann, University of Helsinki, Finland
-* Erik Velldall, University of Oslo, Norway
+* Erik Velldal, University of Oslo, Norway
 
 For any question about the conference in general, please email nodalida2019-org@googlegroups.com.
 
