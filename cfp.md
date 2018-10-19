@@ -74,7 +74,7 @@ additional pages with bibliographic references.
 
 ### DOUBLE SUBMISSION and PRE-PUBLICATION
 
-Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NoDALiDa 2019. Authors of papers accepted for presentation at NoDALiDa must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. NoDALiDA follows the [ACL policy an anonymization and anonymity period](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
+Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NoDALiDa 2019. Authors of papers accepted for presentation at NoDALiDa must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. NoDaLiDA follows the [ACL policy an anonymization and anonymity period](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
 The anonymity period for NoDaLiDa 2019 is from April 30, 2019.
 
