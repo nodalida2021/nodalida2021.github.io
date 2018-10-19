@@ -107,7 +107,7 @@ https://easychair.org/conferences/?conf=nodalida2019
 * **Patrizia Paggio**, University of Copenhagen, Denmark
 * **Kairit Sirts (Workshop Chair)**, University of Tartu, Estonia
 * **Jörg Tiedemann**, University of Helsinki, Finland
-* **Erik Velldall**, University of Oslo, Norway
+* **Erik Velldal**, University of Oslo, Norway
 
 ### Local Chairs
 
