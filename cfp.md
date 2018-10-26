@@ -42,7 +42,7 @@ on-going work, where the first author is a Master or PhD student. This should
 be indicated at submission time.
 
 Papers accepted for presentation at the conference will be included in
-the NoDaLiDa 2019 proceedings, which is published as part of the NEALT
+the NoDaLiDa 2019 proceedings, which are published as part of the NEALT
 Proceedings Series by Linköping University Electronic Press and in the
 ACL Anthology.
 
