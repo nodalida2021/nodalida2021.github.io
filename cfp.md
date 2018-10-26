@@ -28,7 +28,7 @@ in closely-related neighboring disciplines (such as, for example, machine
 learning, linguistics or psychology) that is sufficiently formalized or 
 applied to bear relevance to speech and language technologies.
 
-We invite paper submissions in three kinds:
+We invite paper submissions of three types:
 
 * regular papers on substantial, original, and unpublished research,
   including empirical evaluation results, where appropriate;
