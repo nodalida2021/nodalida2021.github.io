@@ -7,6 +7,7 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
 <!-- Box -->
 <div class="box">
   <p><b>LATEST NEWS</b></p>
+  <p><b>Oct 29</b> <a href="cfp.html"> Call for papers</a> is out</p>
   <p><b>Oct 18</b> <a href="cfw.html"> Call for workshop proposals </a></p>
   <p><b>Oct 12</b> <a href="index.html#dates"> Main conference dates announced </a></p>
   <p><b>Oct 1</b> <a href="people.html"> Programme Comittee announced </a></p>
