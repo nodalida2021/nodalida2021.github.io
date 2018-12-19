@@ -14,6 +14,8 @@ Marie-Catherine de Marneffe is an Assistant Professor in Linguistics at The Ohio
 
 **Tilburg University**
 
+<block class="image"><img width="200px" src="http://grzegorz.chrupala.me/me.jpg" alt="" /></block>
+
 Grzegorz is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. Previously he did postdoctoral research at the Spoken Language Systems group at Saarland University. He received his doctoral degree from the School of Computing at Dublin City University in 2008. In his recent research he has focused on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in multilayer recurrent neural networks. He regularly serves on program committees of major NLP and AI conferences, workshops and journals. He was an area chair at ACL 2017 (Machine Learning) and at EMNLP 2018 (Multimodal NLP and Speech), a general chair for Benelearn 2018, and co-organizer of BlackboxNLP 2018 (workshop on analyzing and interpreting neural networks for NLP).
 
 
