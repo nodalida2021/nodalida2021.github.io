@@ -6,6 +6,8 @@ layout: default
 
 **Ohio State University**
 
+<block class="image"><img width="200px" src="images/marie.jpg" alt="" /></block>
+
 Marie-Catherine de Marneffe is an Assistant Professor in Linguistics at The Ohio State University. She received her PhD from Stanford University in December 2012 under the supervision of Christopher D. Manning. She is developing computational linguistic methods that capture what is conveyed by speakers beyond the literal meaning of the words they say. Primarily she wants to ground meanings in corpus data, and show how such meanings can drive pragmatic inference. She has also worked on Recognizing Textual Entailment and contributed to defining the Stanford Dependencies and the Universal Dependencies representations. She serves as a member of the NAACL board and the Computational Linguistics editorial board.
 
 ## Grzegorz Chrupała
