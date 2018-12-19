@@ -16,9 +16,13 @@ layout: default
 * **Patrizia Paggio**, University of Copenhagen, Denmark
 * **Kairit Sirts (Workshop Chair)**, University of Tartu, Estonia
 * **Jörg Tiedemann**, University of Helsinki, Finland
+<<<<<<< HEAD
 * **Erik Velldall**, University of Oslo, Norway
 
 
+=======
+* **Erik Velldal**, University of Oslo, Norway
+>>>>>>> 37c7604dc026223150dc1885618431ba0f59e8ca
 
 
 ## Local Chairs
