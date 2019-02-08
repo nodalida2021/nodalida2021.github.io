@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Sponsor information 
+## Sponsor information 
 
 NoDaLiDa is an international conference on natural language processing and language technology with over 40 year long tradition.  It attracts researchers and industry representatives with varied skills in **computational linguistics, machine learning, and artificial intelligence**, especially but by no means exclusively from the nordic countries.
 
