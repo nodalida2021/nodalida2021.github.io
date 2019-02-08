@@ -8,7 +8,7 @@ NoDaLiDa is an international conference on natural language processing and langu
 
 We are looking for sponsors to **help offset the costs of arranging the conference, bringing in the international invited speakers, and particularly to keep the student registration price accessible to young and promising researchers from all countries**.  Supporting NoDaLiDa supports the research and education community which fuels the AI revolution with skilled, talented researchers, and brings fresh minds into your R&D teams!
 
-Sponsorship tiers from PLATINUM-PLUS to BRONZE are offered. Further information can be obtained from Associate Professor Filip Ginter, University of Turku, figint@utu.fi, +358504138305. **All sponsorship will go to offset the costs of the conference, the organization is strictly on a not-for-profit basis.**
+Sponsorship tiers from PLATINUM-PLUS to BRONZE are offered. Further information can be obtained from Associate Professor Filip Ginter, University of Turku, figint@utu.fi, +358504138305. **All sponsorship will go to offset the costs of the conference, the organization is strictly on a not-for-profit basis.** All sponsorships will be announced immediately upon agreement.
 
 
 ## PLATINUM-PLUS
