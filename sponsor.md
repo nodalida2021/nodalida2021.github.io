@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<a href="sponsor.html" />
 
 ## Sponsor information 
 
