@@ -6,7 +6,7 @@ NoDaLiDa 2019 will host the following workshops.
 
 ## The First NLPL Workshop on Deep Learning for Natural Language Processing
 
-Joakim Nivre, Leon Derczynski, Filip Ginter, Bjørn Lindi, Martin Matthiessen, Stephan Oepen, Anders Søgaard, Jörg Tiedemann
+Joakim Nivre, Leon Derczynski, Filip Ginter, Bjørn Lindi, Stephan Oepen, Anders Søgaard, Jörg Tiedemann
 
 * September 30, 2019, full day workshop
 
