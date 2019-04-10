@@ -9,6 +9,7 @@ NoDaLiDa 2019 will host the following workshops.
 Joakim Nivre, Leon Derczynski, Filip Ginter, Bjørn Lindi, Stephan Oepen, Anders Søgaard, Jörg Tiedemann
 
 * September 30, 2019, full day workshop
+* [Website](http://wiki.nlpl.eu/index.php/Community/workshop)
 
 ## 8th workshop on NLP for Computer-Assisted Language Learning (NLP4CALL)
 
