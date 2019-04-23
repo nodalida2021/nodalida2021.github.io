@@ -8,7 +8,7 @@ layout: default
 September 30 - October 2, 2019
 University of Turku, Turku, Finland
 
-http://www.nodalida2019.org
+[http://www.nodalida2019.org](http://www.nodalida2019.org)
 
 
 ## CALL FOR PAPERS
@@ -60,7 +60,7 @@ All submissions must follow the NoDaLiDa 2019 style files, which are
 available for LaTeX (preferred) and MS Word and can be
 retrieved from the following address:
 
-https://www.nodalida2019.org/authorkit.zip
+[http://www.nodalida2019.org/authorkit.zip](http://www.nodalida2019.org/authorkit.zip)
 
 Submissions must be anonymous, i.e. not reveal author(s) on the title
 page or through self-references.  Papers must be submitted digitally,
@@ -90,7 +90,7 @@ the above requirements and no later than (end of day, [anywhere](https://www.tim
 NoDaLiDa 2019 utilizes the EasyChair conference management system for 
 submission, reviewing, and preparation of proceedings. 
 
-https://easychair.org/conferences/?conf=nodalida2019
+[https://easychair.org/conferences/?conf=nodalida2019](https://easychair.org/conferences/?conf=nodalida2019)
 
 
 ## PROGRAM COMMITTEE
@@ -121,4 +121,4 @@ For inquiries, send an email to:
 
 nodalida2019-org@googlegroups.com
 
-Follow us on Twitter: https://twitter.com/NoDaLiDa
+Follow us on Twitter: [https://twitter.com/NoDaLiDa](https://twitter.com/NoDaLiDa)
