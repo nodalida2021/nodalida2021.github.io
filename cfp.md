@@ -11,6 +11,13 @@ University of Turku, Turku, Finland
 [http://www.nodalida2019.org](http://www.nodalida2019.org)
 
 
+### NEWS ####
+
+* Invited Speakers announced (https://nodalida2019.org/invited_speakers.html): 
+  - Marie-Catherine de Marneffe, Ohio State University
+  - Grzegorz Chrupała, Tilburg University
+* NoDaLiDa features the following workshops: https://nodalida2019.org/workshops.html
+
 ## CALL FOR PAPERS
 
 The Northern European Association for Language Technology (NEALT)
