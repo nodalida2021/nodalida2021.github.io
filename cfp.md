@@ -97,7 +97,7 @@ The anonymity period for NoDaLiDa 2019 is from April 30, 2019.
 ### SUBMISSION MANAGEMENT
 
 Submissions to the conference must be uploaded electronically, obeying 
-the above requirements and no later than (end of day, [anywhere](https://www.timeanddate.com/time/zones/aoe) on the world):
+the above requirements and no later than (end of day, [anywhere](https://www.timeanddate.com/time/zones/aoe) in the world):
 
 **Friday, May 31, 2019**
 
