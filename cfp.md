@@ -10,14 +10,6 @@ University of Turku, Turku, Finland
 
 [http://www.nodalida2019.org](http://www.nodalida2019.org)
 
-
-### NEWS ####
-
-* Invited Speakers announced (https://nodalida2019.org/invited_speakers.html): 
-  - Marie-Catherine de Marneffe, Ohio State University
-  - Grzegorz Chrupała, Tilburg University
-* NoDaLiDa features the following workshops: https://nodalida2019.org/workshops.html
-
 ## CALL FOR PAPERS
 
 The Northern European Association for Language Technology (NEALT)
@@ -26,6 +18,29 @@ speech technologies.  NoDaLiDa 2019 will be held between Monday,
 September 30 and Wednesday, October 2, 2019, on the campus of the 
 University of Turku, Finland.  
 
+### IMPORTANT DATES
+
+* Friday, May 31, 2019: Submission of Papers
+* Friday, July 12, 2019: Notification of Acceptance
+* Friday, August 9, 2019: Camera-Ready Manuscripts
+* Monday, September 30, 2019: Pre-Conference Workshops
+* Tuesday and Wednesday, October 1-2, 2019: Main Conference
+
+### INVITED SPEAKERS
+
+* Marie-Catherine de Marneffe, Ohio State University
+* Grzegorz Chrupała, Tilburg University
+
+### WORKSHOPS
+
+The following six workshops will be collocated with NoDaLiDa
+
+* The First NLPL Workshop on Deep Learning for Natural Language Processing
+* 8th workshop on NLP for Computer-Assisted Language Learning (NLP4CALL)
+* The Second Financial Narrative Processing Workshop (FNP 2019)
+* Workshop on NLP and pseudonymisation
+* Computational Modeling of Facial Images and Their Description (FACES 2019)
+* Constraint Grammar - Methods, Tools and Applications
 
 ### SUBMISSIONS  
 
@@ -52,14 +67,6 @@ Papers accepted for presentation at the conference will be included in
 the NoDaLiDa 2019 proceedings, which are published as part of the NEALT
 Proceedings Series by Linköping University Electronic Press and in the
 ACL Anthology.
-
-### SCHEDULE
-
-* Friday, May 31, 2019: Submission of Papers
-* Friday, July 12, 2019: Notification of Acceptance
-* Friday, August 9, 2019: Camera-Ready Manuscripts
-* Monday, September 30, 2019: Pre-Conference Workshops
-* Tuesday and Wednesday, October 1-2, 2019: Main Conference
 
 ### SUBMISSION FORMATS
 
