@@ -37,6 +37,7 @@ Beáta Megyesi and Lars Ahrenberg
 Albert Gatt, Roman Klinger, Patrizia Paggio
 
 * September 30, 2019, half day workshop
+* [Website](https://faces2019workshop.github.io/home/)
 
 ## Constraint Grammar - Methods, Tools and Applications
 
