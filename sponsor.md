@@ -16,7 +16,7 @@ Sponsorship tiers from PLATINUM-PLUS to BRONZE are offered. Further information 
 
 5000€
 
-* PLATINUM level with a 5 minute presentation / advertisement slot before one of the two invited talks, addressing all the participants of the conference. **Note: only two PLATINUM-PLUS sponsorships are available and are assigned on a first-come basis.**
+* PLATINUM level with one extra full registration (totalling 3 full registrations) and a 5 minute presentation / advertisement slot before one of the two invited talks, addressing all the participants of the conference. **Note: only two PLATINUM-PLUS sponsorships are available and are assigned on a first-come basis.**
 
 
 ## PLATINUM
