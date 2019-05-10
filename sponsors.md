@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<a href="https://www.lingsoft.fi"><img src="https://www.lingsoft.fi/themes/lingsoft/logo.svg" width="50%" alt="Lingsoft logo"/></a>
 
 ## GOLD sponsors
 
