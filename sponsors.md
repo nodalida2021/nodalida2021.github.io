@@ -12,3 +12,6 @@ layout: default
 
 <a href="https://www.nb.no/en/forskning/sprakbanken/"><img src="images/sprakbanken_no_logo.png" alt="Språkbanken Logo" width="40%" /></a>
 
+## BRONZE sponsors
+
+<a href="https://www.convertelligence.no/"><img src="images/convertelligence_logo.png" alt="Convertelligence Logo" width="40%" /></a>
