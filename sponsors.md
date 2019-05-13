@@ -5,7 +5,7 @@ layout: default
 <div class="row">
 
 <block style="margin:40px" class="4u 12u$(small)">
-<h2>Platinum Plus</h2>
+<h2>Platinum Plus </h2>
 <span class="image"><a href="https://www.lingsoft.fi"><img src="images/lingsoft_logo.png" width="300px" alt="Lingsoft logo"/></a></span>
 </block>
 
