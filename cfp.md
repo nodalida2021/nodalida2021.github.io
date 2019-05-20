@@ -20,7 +20,7 @@ University of Turku, Finland.
 
 ### IMPORTANT DATES
 
-* Friday, May 31, 2019: Submission of Papers
+* Friday, June 7, 2019 (**extended**): Submission of Papers 
 * Friday, July 12, 2019: Notification of Acceptance
 * Friday, August 9, 2019: Camera-Ready Manuscripts
 * Monday, September 30, 2019: Pre-Conference Workshops
