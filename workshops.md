@@ -32,7 +32,7 @@ Beáta Megyesi and Lars Ahrenberg
 * September 30, 2019, half day workshop
 * [Website](https://sweclarin.se/swe/evenemang/nlp4pseudo)
 
-## Computational Modeling of Facial Images and Their Description (FACES 2019)
+~~## Computational Modeling of Facial Images and Their Description (FACES 2019)~~ (cancelled)
 
 Albert Gatt, Roman Klinger, Patrizia Paggio
 
