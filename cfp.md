@@ -88,6 +88,10 @@ and up to four pages for short papers and demo papers.
 For all three submission types, these page limits do *not* include 
 additional pages with bibliographic references.
 
+For the camera-ready paper, regular papers can be up to 9 pages.
+Short papers and demo papers: up to 5 pages. For all three submission types, 
+these page limits do not include additional pages with bibliographic references.
+
 ### DOUBLE SUBMISSION and PRE-PUBLICATION
 
 Papers that have been or will be submitted to other venues must indicate this at submission time in the Easychair submission system (please add it in the keywords field), and must be withdrawn from the other venues if accepted to NoDALiDa 2019. Authors of papers accepted for presentation at NoDALiDa must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. We will not accept for publication or presentation the papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
