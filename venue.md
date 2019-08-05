@@ -11,8 +11,8 @@ layout: default
 
 The conference will be held at University of Turku. The university campus is in walking distance from the Turku city centre.
 
-Building: Publicum\
-Street address: Assistentinkatu 7, 20500 Turku\
+Building: Publicum  
+Street address: Assistentinkatu 7, 20500 Turku  
 Map: [Google Maps](https://goo.gl/maps/aumFgrxJVg6nvgiTA)
 
 
@@ -23,8 +23,8 @@ A quota of rooms has been reserved for the conference participants in three hote
 ### Conference hotels:
 
 #### Original Sokos Hotel Wiklund 
-Eerikinkatu 11, 20100 Turku\
-Phone: +358 20 123 4600\
+Eerikinkatu 11, 20100 Turku  
+Phone: +358 20 123 4600  
 E-mail: sokos.hotels@sok.fi
 
 
@@ -34,7 +34,7 @@ Hotel Wiklund is completely renewed hotel located on the top floors of Sokos Wik
 
 Original Sokos Hotel Wiklund is eco-label awarded. Green Key is the largest global eco-label for accommodation. 
 
-Standard, single room 128,00 eur/night\
+Standard, single room 128,00 eur/night  
 Standard, double room 148,00 eur/night
 
 **Reservations:**
@@ -43,14 +43,14 @@ Please make your reservation through phone: +358 20 123 4600 or email: sokos.hot
 
 
 #### Holiday Club Caribia
-Kongressikuja 1, 20540 Turku\
-Phone: +358 300 870 920\
+Kongressikuja 1, 20540 Turku  
+Phone: +358 300 870 920  
 E-mail: hotelsales.caribia@holidayclub.fi
 
 
 Holiday Club Caribia is a spa hotel, situated on the outskirts of Turku city centre, just a short walk away from the conference venue. Holiday Club Caribia hotel provides high-quality accommodation. From the rooms, guests have direct indoor access to the spa, restaurants and all available indoor activities. The hotel fee includes free use of the spa and wellness centre, buffet breakfast is also included.
 
-Standard, single room 138,00 eur/night\
+Standard, single room 138,00 eur/night  
 Standard, double room 168,00 eur/night
 
 **Reservations:**
@@ -58,8 +58,8 @@ Please make your reservation through phone: +358 300 870 920 or email: hotels
 
 
 #### Centro Hotel
-Yliopistonkatu 12a, 20100 Turku\
-Phone: +358 2 211 8100\
+Yliopistonkatu 12a, 20100 Turku  
+Phone: +358 2 211 8100  
 Email: centro@centrohotel.com
 
 
@@ -67,7 +67,7 @@ Centro Hotel is a unique, modern hotel located right in the heart of Turku city 
 
 At the Centro hotel you can enjoy breakfast prepared with fresh natural ingredients from the nearby area. The conference venue is within walking distance or otherwise easily reachable.
 
-Standard, single room 110,00 eur/night\
+Standard, single room 110,00 eur/night  
 Standard, double room 130,00 eur/night
 
 **Reservations:**
