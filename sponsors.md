@@ -23,6 +23,11 @@ layout: default
 
 <div class="row">
 
+<block style="margin:40px" class="4u 12u$(small)">
+<h2>Silver</h2>
+<span class="image"><a href="https://www.sprakochfolkminnen.se/om-oss/forskning/sprakbanken-sam/nationella-sprakbanken.html"><img src="images/nationella_sb.png" alt="Nationella språkbanken" width="300px" /></a></span>
+</block>
+
 <block style="margin:40px" class="4u$ 12u$(small)">
 <h2>Bronze</h2>
 <span class="image"><a href="https://www.convertelligence.no/"><img src="images/convertelligence_logo.png" alt="Convertelligence Logo" width="300px" /></a></span>
