@@ -7,11 +7,10 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
 <!-- Box -->
 <div class="box">
   <p><b>LATEST NEWS</b></p>
+  <p><b>August 9</b> Registration open, deadline August 31</p>
   <p><b>July 12</b> Notifications sent out</p>
-  <p><b>May 20</b> Submission deadline extended</p>
   <p><b>Apr 05</b> <a href="workshops.html">Workshops announced</a></p>
   <p><b>Dec 19</b>  <a href="invited_speakers.html"> Invited speakers announced </a></p>
-  <p><b>Oct 29</b> <a href="cfp.html"> Call for papers</a> is out</p>
 </div>
 
 ## Important dates <a id="dates"></a>
