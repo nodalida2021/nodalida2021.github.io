@@ -13,10 +13,7 @@ The registration fees are not subject to VAT.
 
 ## Social programme
 
-Welcome reception, 30 September * included
-Conference dinner, 1 October * included
-
-* Pre-registration in the registration form is required
+Both the welcome reception (30 September) and conference dinner (1 October) are included, provided that you indicate attendance in the registration form.
 
 ## Registration form
 
