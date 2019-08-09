@@ -11,6 +11,8 @@ The registration fees include attendance in the workshops and the main conferenc
 
 The registration fees are not subject to VAT.
 
+After the August 31 deadline, on-site registration will be possible at 260 EUR (student) and 290 EUR (regular).
+
 ## Social programme
 
 Both the welcome reception (30 September) and conference dinner (1 October) are included, provided that you indicate attendance in the registration form.
