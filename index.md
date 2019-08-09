@@ -7,7 +7,7 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
 <!-- Box -->
 <div class="box">
   <p><b>LATEST NEWS</b></p>
-  <p><b>August 9</b> Registration open, deadline August 31</p>
+  <p><b>August 9</b> [Registration open](https://nodalida2019.org/registration.html), deadline August 31</p>
   <p><b>July 12</b> Notifications sent out</p>
   <p><b>Apr 05</b> <a href="workshops.html">Workshops announced</a></p>
   <p><b>Dec 19</b>  <a href="invited_speakers.html"> Invited speakers announced </a></p>
