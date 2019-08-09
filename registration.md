@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Registration and fees
+## Registration and fees
 
 The registration fees include attendance in the workshops and the main conference, coffee and lunch on the conference and workshop days, as well as the welcome reception on 30 September and the conference dinner on 1 October. **Registration deadline is 31 August 2019**.
 
