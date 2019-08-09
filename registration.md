@@ -11,7 +11,7 @@ The registration fees include attendance in the workshops and the main conferenc
 
 The registration fees are not subject to VAT.
 
-After the August 31 deadline, on-site registration will be possible at 270 EUR (student) and 300 EUR (regular).
+After the August 31 deadline, on-site registration will be possible at 270 EUR (student) and 300 EUR (regular), however, welcome reception and conference dinner cannot be guaranteed for on-site registrations.
 
 ## Social programme
 
