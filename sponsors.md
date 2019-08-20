@@ -15,13 +15,19 @@ layout: default
 </block>
 
 <block style="margin:40px" class="4u$ 12u$(small)">
-<h2>Silver</h2>
-<span class="image"><a href="https://www.nb.no/en/forskning/sprakbanken/"><img src="images/sprakbanken_no_logo.png" alt="Språkbanken Logo" width="300px" /></a></span>
+<h2>Gold</h2>
+<span class="image"><a href="https://www.ibm.com/fi-en"><img src="images/ibm_logo.png" alt="IBM Logo" width="300px" /></a></span>
 </block>
 
 </div>
 
 <div class="row">
+
+<block style="margin:40px" class="4u 12u$(small)">
+<h2>Silver</h2>
+<span class="image"><a href="https://www.nb.no/en/forskning/sprakbanken/"><img src="images/sprakbanken_no_logo.png" alt="Språkbanken Logo" width="300px" /></a></span>
+</block>
+
 
 <block style="margin:40px" class="4u 12u$(small)">
 <h2>Silver</h2>
