@@ -6,7 +6,8 @@ layout: default
 
 <div class="row">
 <div class="col-6 col-12-medium">
-     <span class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Turun_kaupungintalo.jpg/1280px-Turun_kaupungintalo.jpg" alt="turku old town hall image" /></span>
+     <span class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Turun_kaupungintalo.jpg/1280px-Turun_kaupungintalo.jpg" alt="turku old town hall image" />Image: Wikipedia</span>
+     
 </div>
 </div>
 
@@ -22,7 +23,7 @@ The welcome reception is sponsored by the city of Turku
 
 <div class="row">
 <div class="col-6 col-12-medium">
-     <span class="image fit"><img src="images/Turku_Castle_resized.jpg" alt="turku castle image" /></span>
+     <span class="image fit"><img src="images/Turku_Castle_resized.jpg" alt="turku castle image" />Image: Visit Turku / Museokeskus</span>
 </div>
 </div>
 
