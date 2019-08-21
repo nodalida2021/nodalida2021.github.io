@@ -4,6 +4,13 @@ layout: default
 
 ## Welcome reception
 
+<div class="row">
+<div class="col-6 col-12-medium">
+     <span class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Turun_kaupungintalo.jpg/1280px-Turun_kaupungintalo.jpg" alt="turku old town hall image" /></span>
+</div>
+</div>
+
+
 The welcome reception is sponsored by the city of Turku
 
 * Monday 30.9.2019, 19.00-20.30
