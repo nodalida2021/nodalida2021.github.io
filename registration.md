@@ -19,6 +19,8 @@ Both the welcome reception (30 September) and conference dinner (1 October) are 
 
 ## Registration form
 
+Registering an invited speaker or a sponsor participant? Please email the registration form information to Filip Ginter figint@utu.fi!
+
 <a href="https://www.lyyti.in/NoDaLiDa_2019_registration">Online registration form</a>
 
 Methods of payment:
