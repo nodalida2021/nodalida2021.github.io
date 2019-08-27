@@ -43,5 +43,5 @@ Albert Gatt, Roman Klinger, Patrizia Paggio
 
 Eckhard Bick, Tino Didriksen, Kristin Hagen, Kaili Müürisep, Trond Trosterud
 
-* September 30, 2019, half day workshop
+* September 30, 2019, full day workshop
 * [Website](https://visl.sdu.dk/nodalida2019.html)
