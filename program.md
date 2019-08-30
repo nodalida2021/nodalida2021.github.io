@@ -27,7 +27,7 @@
 | 09:15-10:05  | Keynote by Grzegorz Chrupała | 
 | 10:05-10:35  | Coffee break |
 | 10:35-12:15  | Parallel sessions |
-| 12:15-13:45  | Lunch |
+| 12:15-13:45  | Lunch break |
 | 13:45-15:00  | Parallel sessions |
 | 15:00-15:30  | Coffee Break |
 | 15:30-16:45 | Parallel sessions |
@@ -42,7 +42,7 @@
 | 09:50-10:20  | Coffee break |
 | 10:20-12:00  | Parallel sessions |
 | 12:00-13:00 | NEALT business meeting | 
-| 13:00-10:20 | Coffee break |
+| 12:00-14:00 | Lunch break |
 | 14:00-15:15  | Parallel sessions |
 | 15:15-15:45 | Coffee Break |
 | 15:45-16:25 | Tutorial on Finnish by Karlsson, Fred |
