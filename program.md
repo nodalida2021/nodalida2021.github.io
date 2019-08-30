@@ -13,7 +13,7 @@
 | 09:00-18:00  | Constraint Grammar - Methods, Tools and Applications |
 | 09:00-12:00 (tbc)  | Workshop on NLP and pseudonymisation  |
 | 09:00-15:00  | The Second Financial Narrative Processing Workshop (FNP 2019)  |
-| 19:00 | **Welcome Reception (City Hall)** |
+| 19:00 | Welcome Reception (City Hall) |
 
 
 * Lunch is served during the entire conference (incl. workshop day) and included in the registration fee.
