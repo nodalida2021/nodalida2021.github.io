@@ -36,7 +36,7 @@ layout: default
 
 <block style="margin:40px" class="4u$ 12u$(small)">
 <h2>Bronze</h2>
-<span class="image"><a href="https://www.convertelligence.no/"><img src="images/convertelligence_logo.png" alt="Convertelligence Logo" width="300px" /></a></span>
+<span class="image"><a href="https://kindly.ai/"><img src="images/kindly_logo.png" alt="Kindly Logo" width="300px" /></a></span>
 </block>
 
 </div>
