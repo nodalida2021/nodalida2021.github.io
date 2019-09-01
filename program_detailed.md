@@ -18,7 +18,7 @@
 | Time  | Session |
 | ------------- | ------------- |
 | 09:00-09:15  | Opening |
-| 09:15-10:05  | Keynote by Grzegorz Chrupała | 
+| 09:15-10:05  | Keynote by Marie-Catherine de Marneffe  | 
 | 10:05-10:35  | Coffee break |
 | 10:35-12:15  | Parallel session A:  |
 | 10:35-12:15  | Parallel session B:  |
@@ -52,7 +52,7 @@
 
 | Time  | Session |
 | ------------- | ------------- |
-| 09:00-09:50  | Keynote by Marie-Catherine de Marneffe | 
+| 09:00-09:50  | Keynote by Grzegorz Chrupała | 
 | 09:50-10:20  | Coffee break |
 | 10:20-12:00  | Parallel sessions |
 | 12:00-13:00 | NEALT business meeting | 
