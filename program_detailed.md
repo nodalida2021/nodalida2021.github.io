@@ -7,6 +7,8 @@
 
 ## Monday September 30, 2019 Workshops
 
+| Time  | Session |
+| ------------- | ------------- |
 | 09:00-18:00  | Workshops |
 | 19:00 | [Welcome Reception](https://nodalida2019.org/social.html) in the Turku City Hall |
 
