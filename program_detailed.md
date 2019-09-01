@@ -27,6 +27,7 @@
 | 15:30-16:45 | Parallel session A: |
 | 15:30-16:45 | Parallel session B: |
 | 16:45-17:45 | Poster and demo session |
+| 16:45-17:45 | Posters: |
 |             | Starkaður Barkarson and Steinþór Steingrímsson. Compiling and Filtering ParIce: An English-Icelandic Parallel Corpus |
 |  | Valentin Barriere and Amaury Fouret. May I Check Again? — A simple but efficient way to generate and use contextual dictionaries for Named Entity Recognition. Application to French Legal Texts. |
 | | Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin and Aleksandre Maskharashvili. Predicates as Boxes in Bayesian Semantics for Natural Language |
