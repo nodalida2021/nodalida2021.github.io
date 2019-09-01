@@ -1,6 +1,9 @@
 # Program 
 
-# Program Outline
+* [Program Outline](#outline)
+* [Detailed Program](#details) (under construction)
+
+# <a name="outline"></a>Program Outline
 
 ## Monday September 30, 2019 Workshops
 
@@ -49,3 +52,4 @@
 | 16:25-16:45 | Closing |
 
 
+# <a name="details"></a>Detailed Program
