@@ -44,8 +44,6 @@
 | | Iben Nyholm Debess, Sandra Saxov Lamhauge and Peter Juel Henrichsen. Garnishing a phonetic dictionary for ASR intake |
 | | Marcus Klang and Pierre Nugues. Docria: Processing and Storing Linguistic Data with Wikipedia |
 | | Daniel Varab and Natalie Schluter. UniParse: A universal graph-based parsing toolkit |
-
-
 | 19:30-23:59 | [Conference Dinner](https://nodalida2019.org/social.html) in the Turku Castle |
 
 ## Wednesday October 2, 2019
