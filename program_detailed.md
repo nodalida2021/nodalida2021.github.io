@@ -1,9 +1,9 @@
 # Program 
 
-* [Program Outline](#outline)
+* [Program Outline](https://nodalida2019.org/program.html)
 * [Detailed Program](#details) (under construction)
 
-# <a name="outline"></a>Program Outline
+# <a name="details"></a>Detailed Program
 
 ## Monday September 30, 2019 Workshops
 
@@ -61,4 +61,3 @@
 | 16:25-16:45 | Closing |
 
 
-# <a name="details"></a>Detailed Program
