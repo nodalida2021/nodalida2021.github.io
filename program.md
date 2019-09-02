@@ -11,10 +11,10 @@
 | Tentative time  |  |
 | ------------- | ------------- |
 | 08:00- | Registration opens |
-| 09:00-18:00 | NLPL Workshop on Deep Learning for Natural Language Processing  |
-| 09:00-18:00  | NLP for Computer-Assisted Language Learning (NLP4CALL)  |
-| 09:00-18:00  | Constraint Grammar - Methods, Tools and Applications |
-| 09:00-12:00 (tbc)  | Workshop on NLP and pseudonymisation  |
+| 09:00-17:00 | NLPL Workshop on Deep Learning for Natural Language Processing  |
+| 09:00-18:00 (tbc) | NLP for Computer-Assisted Language Learning (NLP4CALL)  |
+| 09:00-15:00  | Constraint Grammar - Methods, Tools and Applications |
+| 14:00-17:00  | Workshop on NLP and pseudonymisation  |
 | 09:00-15:00  | The Second Financial Narrative Processing Workshop (FNP 2019)  |
 | 19:00 | [Welcome Reception](https://nodalida2019.org/social.html) in the Turku City Hall |
 
