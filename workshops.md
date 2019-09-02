@@ -32,13 +32,6 @@ Beáta Megyesi and Lars Ahrenberg
 * September 30, 2019, half day workshop
 * [Website](https://sweclarin.se/swe/evenemang/nlp4pseudo)
 
-~~## Computational Modeling of Facial Images and Their Description (FACES 2019)~~ (cancelled)
-
-Albert Gatt, Roman Klinger, Patrizia Paggio
-
-* September 30, 2019, half day workshop
-* [Website](https://faces2019workshop.github.io/home/)
-
 ## Constraint Grammar - Methods, Tools and Applications
 
 Eckhard Bick, Tino Didriksen, Kristin Hagen, Kaili Müürisep, Trond Trosterud
