@@ -78,7 +78,7 @@
 | | Anders Edelbo Lillie, Emil Refsgaard Middelboe and Leon Derczynski. Joint Rumour Stance and Veracity Prediction. |
 | | Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. Lexicon information in neural sentiment analysis: a multi-task learning approach. |
 | | Mickel Hoang, Oskar Alija Bihorac and Jacobo Rouces. Aspect-Based Sentiment Analysis using BERT. |
-| | Rasmus Lehmann and Leon Derczynski. Political Stance Detection for Danish (old: Political Stance in Danish). |
+| | Rasmus Lehmann and Leon Derczynski. Political Stance Detection for Danish. |
 | 10:20-12:00  | Parallel session B: Named entity recognition |
 | | Barbara Plank. Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish. |
 | | Bjarte Johansen. Named-Entity Recognition for Norwegian. |
