@@ -49,7 +49,7 @@
 | 14:00-15:15  | Parallel sessions |
 | 15:15-15:45 | Coffee Break |
 | 15:45-16:25 | Tutorial on Finnish by Karlsson, Fred |
-| 16:25-16:45 | Closing |
+| 16:25-16:35 | Closing |
 
 
 # <a name="details"></a>Detailed Program
