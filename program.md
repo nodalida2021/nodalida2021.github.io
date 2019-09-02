@@ -53,3 +53,5 @@
 
 
 # <a name="details"></a>Detailed Program
+
+Stay tuned - it will be available very soon! (msg from Sep 2, 2019)
