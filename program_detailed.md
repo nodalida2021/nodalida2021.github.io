@@ -1,7 +1,7 @@
 # Program 
 
 * [Program Outline](https://nodalida2019.org/program.html)
-* [Detailed Program](#details) (under construction)
+* [Detailed Program](#details) 
 
 # <a name="details"></a>Detailed Program
 
@@ -96,4 +96,4 @@
 | | Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations. |
 | 15:15-15:45 | Coffee Break |
 | 15:45-16:25 | Tutorial on Finnish by Fred Karlsson |
-| 16:25-16:45 | Closing |
+| 16:25-16:35 | Closing |
