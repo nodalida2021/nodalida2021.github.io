@@ -95,5 +95,5 @@
 | | Evgeniia Rykova and Stefan Werner. Perceptual and acoustic analysis of voice similarities between parents and young children. |
 | | Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations. |
 | 15:15-15:45 | Coffee Break |
-| 15:45-16:25 | Tutorial on Finnish by [Fred Karlsson](http://www.ling.helsinki.fi/~fkarlsso/) - Chair: Filip Ginter |
+| 15:45-16:25 | Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson) - Chair: Filip Ginter |
 | 16:25-16:35 | Closing |
