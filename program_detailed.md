@@ -72,7 +72,7 @@
 
 | Time  | Session |
 | ------------- | ------------- |
-| 09:00-09:50  | Keynote by Grzegorz Chrupała | 
+| 09:00-09:50  | Keynote by Grzegorz Chrupała: Investigating neural representations of speech and language - Chair:  | 
 | 09:50-10:20  | Coffee break |
 | 10:20-12:00  | Parallel session A: Sentiment analysis & Stance |
 | | Anders Edelbo Lillie, Emil Refsgaard Middelboe and Leon Derczynski. Joint Rumour Stance and Veracity Prediction. |
