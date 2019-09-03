@@ -31,7 +31,7 @@
 | | Yuri Bizzoni, Marius Mosbach, Deitrich Klakow and Stefania Degaetano-Ortlieb. Some steps towards the generation of diachronic WordNets. |
 | | Karolína Hořeňovská. An evaluation of Czech word embeddings. |
 | 12:15-13:45  | Lunch break |
-| 13:45-15:00  | Parallel session A: Semantics |
+| 13:45-15:00  | Parallel session A: Semantics - Chair: Marianna Apidianaki |
 | | Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions. |
 | | Hazem Al Saied, Marie Candito and Mathieu Constant. Comparing linear and neural models for competitive MWE identification. |
 | | Stergios Chatzikyriakidis and Jean-Philippe Bernardy. A Wide-Coverage Symbolic Natural Language Inference System. |
