@@ -25,7 +25,7 @@
 | | Prasanth Kolachina and Aarne Ranta. Bootstrapping UD treebanks for Delexicalized Parsing. |
 | | Barbara Plank and Sigrid Klerke. Lexical Resources for Low-Resource PoS Tagging in Neural Times. |
 | | Veronika Laippala, Roosa Kyllönen, Jesse Egbert, Douglas Biber and Sampo Pyysalo. Toward Multilingual Identification of Online Registers. |
-| 10:35-12:15  | Parallel session B: Embeddings, Biases and Language Change  |
+| 10:35-12:15  | Parallel session B: Embeddings, Biases and Language Change - Chair: Richard Johansson  |
 | | Magnus Sahlgren and Fredrik Olsson. Gender Bias in Pretrained Swedish Embeddings. |
 | | Astrid van Aggelen, Antske Fokkens, Laura Hollink and Jacco van Ossenbruggen. A larger-scale evaluation resource of terms and their shift direction for diachronic lexical semantics. |
 | | Yuri Bizzoni, Marius Mosbach, Deitrich Klakow and Stefania Degaetano-Ortlieb. Some steps towards the generation of diachronic WordNets. |
