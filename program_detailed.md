@@ -40,7 +40,7 @@
 | | Svanhvít Lilja Ingólfsdóttir, Hrafn Loftsson, Jón Friðrik Daðason and Kristín Bjarnadóttir. Nefnir: A high accuracy lemmatizer for Icelandic. |
 | | Silvio Ricardo Cordeiro and Marie Candito. Syntax-based identification of light-verb constructions. |
 | 15:00-15:30  | Coffee Break |
-| 15:30-16:45 | Parallel session A: Machine Learning Applications, Text Classification |
+| 15:30-16:45 | Parallel session A: Machine Learning Applications, Text Classification - Chair: Jenna Kanerva |
 | | Joakim Åkerström, Adel Daoud and Richard Johansson. Natural Language Processing in Policy Evaluation: Extracting Policy Conditions from IMF Loan Agreements. |
 | | Marina Santini, Benjamin Danielsson and Arne Jönsson. Comparing the Performance of Feature Representations for the Categorization of the Easy-to-Read Variety vs Standard Language. |
 | | Michele Persiani and Thomas Hellström. Unsupervised Inference of Object Affordance from Text Corpora. |
