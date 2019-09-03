@@ -84,8 +84,8 @@
 | | Bjarte Johansen. Named-Entity Recognition for Norwegian. |
 | | Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. Projecting named entity recognizers without annotated or parallel corpora. |
 | | Svanhvít Lilja Ingólfsdóttir, Sigurjón Þorsteinsson and Hrafn Loftsson. Towards High Accuracy Named Entity Recognition for Icelandic. |
-| 12:00-13:00 | NEALT business meeting | 
 | 12:00-14:00 | Lunch break |
+| 13:00-14:00 (TBC) | NEALT business meeting | 
 | 14:00-15:15  | Parallel session A: Text generation and language modeling |
 | | Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News. |
 | | Eva Pettersson and Beata Megyesi.. Matching Keys and Encrypted Manuscripts. |
