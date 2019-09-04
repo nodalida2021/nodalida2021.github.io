@@ -46,7 +46,7 @@
 | | Michele Persiani and Thomas Hellström. Unsupervised Inference of Object Affordance from Text Corpora. |
 | 15:30-16:45 | Parallel session B: Language resources (datasets) and Applications - Chair: Elena Volodina |
 | | Petter Mæhlum, Jeremy Claude Barnes, Lilja Øvrelid and Erik Velldal. Annotating evaluative sentences for sentiment analysis: a dataset for Norwegian. |
-| | David Alfter and Johannes Graën. Interconnecting lexical resources and word alignment: How do learners get on with particle verbs?. |
+| | David Alfter and Johannes Graën. Interconnecting lexical resources and word alignment: How do learners get on with particle verbs? |
 | | Hans Moen, Laura-Maria Peltonen, Henry Suhonen, Hanna-Maria Matinolli, Riitta Mieronkoski, Kirsi Telen, Kirsi Terho, Tapio Salakoski and Sanna Salanterä. An Unsupervised Query Rewriting Approach Using N-gram Co-occurrence Statistics to Find Similar Phrases in Large Text Corpora. |
 | 16:45-17:45 | Poster and demo session |
 | 16:45-17:45 | Posters: |
@@ -88,7 +88,7 @@
 | 13:00-14:00 (TBC) | NEALT business meeting | 
 | 14:00-15:15  | Parallel session A: Text generation and language modeling |
 | | Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News. |
-| | Eva Pettersson and Beata Megyesi.. Matching Keys and Encrypted Manuscripts. |
+| | Eva Pettersson and Beata Megyesi. Matching Keys and Encrypted Manuscripts. |
 | | Sidsel Boldsen and Manex Agirrezabal. The Seemingly (Un)systematic Linking Element in Danish. |
 | 14:00-15:15  | Parallel session B: Speech - Chair: Grzegorz Chrupała |
 | | Ozge Alacam. Enhancing Natural Language Understanding through Cross-Modal Interaction: Meaning Recovery from Acoustically Noisy Speech. |
