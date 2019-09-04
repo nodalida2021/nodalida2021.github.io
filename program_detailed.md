@@ -90,7 +90,7 @@
 | | Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News. |
 | | Eva Pettersson and Beata Megyesi.. Matching Keys and Encrypted Manuscripts. |
 | | Sidsel Boldsen and Manex Agirrezabal. The Seemingly (Un)systematic Linking Element in Danish. |
-| 14:00-15:15  | Parallel session B: Speech |
+| 14:00-15:15  | Parallel session B: Speech - Chair: Grzegorz Chrupała |
 | | Ozge Alacam. Enhancing Natural Language Understanding through Cross-Modal Interaction: Meaning Recovery from Acoustically Noisy Speech. |
 | | Evgeniia Rykova and Stefan Werner. Perceptual and acoustic analysis of voice similarities between parents and young children. |
 | | Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations. |
