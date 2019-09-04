@@ -74,7 +74,7 @@
 | ------------- | ------------- |
 | 09:00-09:50  | Keynote by Grzegorz Chrupała: Investigating neural representations of speech and language - Chair: Lilja Øvrelid | 
 | 09:50-10:20  | Coffee break |
-| 10:20-12:00  | Parallel session A: Sentiment analysis & Stance |
+| 10:20-12:00  | Parallel session A: Sentiment analysis and Stance |
 | | Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. Lexicon information in neural sentiment analysis: a multi-task learning approach. |
 | | Mickel Hoang, Oskar Alija Bihorac and Jacobo Rouces. Aspect-Based Sentiment Analysis using BERT. |
 | | Rasmus Lehmann and Leon Derczynski. Political Stance Detection for Danish. |
