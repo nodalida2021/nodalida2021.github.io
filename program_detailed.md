@@ -44,7 +44,7 @@
 | | Joakim Åkerström, Adel Daoud and Richard Johansson. Natural Language Processing in Policy Evaluation: Extracting Policy Conditions from IMF Loan Agreements. |
 | | Marina Santini, Benjamin Danielsson and Arne Jönsson. Comparing the Performance of Feature Representations for the Categorization of the Easy-to-Read Variety vs Standard Language. |
 | | Michele Persiani and Thomas Hellström. Unsupervised Inference of Object Affordance from Text Corpora. |
-| 15:30-16:45 | Parallel session B: Language resources (datasets) and Applications |
+| 15:30-16:45 | Parallel session B: Language resources (datasets) and Applications - Chair: Elena Volodina |
 | | Petter Mæhlum, Jeremy Claude Barnes, Lilja Øvrelid and Erik Velldal. Annotating evaluative sentences for sentiment analysis: a dataset for Norwegian. |
 | | David Alfter and Johannes Graën. Interconnecting lexical resources and word alignment: How do learners get on with particle verbs?. |
 | | Hans Moen, Laura-Maria Peltonen, Henry Suhonen, Hanna-Maria Matinolli, Riitta Mieronkoski, Kirsi Telen, Kirsi Terho, Tapio Salakoski and Sanna Salanterä. An Unsupervised Query Rewriting Approach Using N-gram Co-occurrence Statistics to Find Similar Phrases in Large Text Corpora. |
