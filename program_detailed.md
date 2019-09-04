@@ -81,8 +81,8 @@
 | | Rasmus Lehmann and Leon Derczynski. Political Stance Detection for Danish. |
 | 10:20-12:00  | Parallel session B: Named entity recognition |
 | | Barbara Plank. Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish. |
-| | Bjarte Johansen. Named-Entity Recognition for Norwegian. |
 | | Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. Projecting named entity recognizers without annotated or parallel corpora. |
+| | Bjarte Johansen. Named-Entity Recognition for Norwegian. |
 | | Svanhvít Lilja Ingólfsdóttir, Sigurjón Þorsteinsson and Hrafn Loftsson. Towards High Accuracy Named Entity Recognition for Icelandic. |
 | 12:00-14:00 | Lunch break |
 | 13:00-14:00 (TBC) | NEALT business meeting | 
