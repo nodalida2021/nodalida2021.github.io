@@ -35,7 +35,7 @@
 | | Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions. |
 | | Hazem Al Saied, Marie Candito and Mathieu Constant. Comparing linear and neural models for competitive MWE identification. |
 | | Stergios Chatzikyriakidis and Jean-Philippe Bernardy. A Wide-Coverage Symbolic Natural Language Inference System. |
-| 13:45-15:00  | Parallel session B: Morphology & Syntax |
+| 13:45-15:00  | Parallel session B: Morphology & Syntax - Chair: Kairit Sirts |
 | | Ilmari Kylliäinen and Miikka Silfverberg. Ensembles of Neural Morphological Inflection Models. |
 | | Svanhvít Lilja Ingólfsdóttir, Hrafn Loftsson, Jón Friðrik Daðason and Kristín Bjarnadóttir. Nefnir: A high accuracy lemmatizer for Icelandic. |
 | | Silvio Ricardo Cordeiro and Marie Candito. Syntax-based identification of light-verb constructions. |
