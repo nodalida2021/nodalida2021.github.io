@@ -4,22 +4,22 @@ layout: default
 
 ## Registration and fees
 
-The registration fees include attendance in the workshops and the main conference, coffee and lunch on the conference and workshop days, as well as the welcome reception on 30 September and the conference dinner on 1 October. **Registration deadline is 31 August 2019**.
+The standard registration deadline has passed. Late / on-site registration now applies.
 
-* Regular participant 230 EUR
-* Student 200 EUR
+The registration fees include attendance in the workshops and the main conference, coffee and lunch on the conference and workshop days, as well as the welcome reception on 30 September and the conference dinner on 1 October. Conference dinner can be guaranteed only for late registrations received **before September 15** for logistical reasons.
+
+Late and on-site registration prices:
+
+* Regular participant 300 EUR
+* Student 270 EUR
 
 The registration fees are not subject to VAT.
-
-After the August 31 deadline, on-site registration will be possible at 270 EUR (student) and 300 EUR (regular), however, welcome reception and conference dinner cannot be guaranteed for on-site registrations.
 
 ## Social programme
 
 Both the welcome reception (30 September) and conference dinner (1 October) are included, provided that you indicate attendance in the registration form.
 
 ## Registration form
-
-Registering an invited speaker or a sponsor participant? Please email the registration form information to Filip Ginter figint@utu.fi!
 
 <a href="https://www.lyyti.in/NoDaLiDa_2019_registration">Online registration form</a>
 
