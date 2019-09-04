@@ -18,9 +18,9 @@
 | Time  | Session |
 | ------------- | ------------- |
 | 09:00-09:15  | Opening |
-| 09:15-10:05  | Keynote by Marie-Catherine de Marneffe  | 
+| 09:15-10:05  | Keynote by Marie-Catherine de Marneffe - Chair: Joakim Nivre | 
 | 10:05-10:35  | Coffee break |
-| 10:35-12:15  | Parallel session A: Multilinguality, MT |
+| 10:35-12:15  | Parallel session A: Multilinguality, MT - Chair: Jörg Tiedemann |
 | | José Carlos Rosales Nunes, Djamé Seddah and Guillaume Wisniewski. Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content. |
 | | Prasanth Kolachina and Aarne Ranta. Bootstrapping UD treebanks for Delexicalized Parsing. |
 | | Barbara Plank and Sigrid Klerke. Lexical Resources for Low-Resource PoS Tagging in Neural Times. |
