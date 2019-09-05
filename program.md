@@ -46,8 +46,8 @@ N.B. All times are EEST.
 | 09:00-09:50  | Keynote by Grzegorz Chrupała | 
 | 09:50-10:20  | Coffee break |
 | 10:20-12:00  | Parallel sessions |
-| 13:00-14:00 | NEALT business meeting | 
 | 12:00-14:00 | Lunch break |
+| 13:00-14:00 | NEALT business meeting | 
 | 14:00-15:15  | Parallel sessions |
 | 15:15-15:45 | Coffee Break |
 | 15:45-16:25 | Tutorial on Finnish by Karlsson, Fred |
