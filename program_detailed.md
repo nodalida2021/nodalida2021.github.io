@@ -74,7 +74,7 @@
 | ------------- | ------------- |
 | 09:00-09:50  | Keynote by Grzegorz Chrupała: Investigating neural representations of speech and language - Chair: Lilja Øvrelid | 
 | 09:50-10:20  | Coffee break |
-| 10:20-12:00  | Parallel session A: Sentiment analysis and Stance |
+| 10:20-12:00  | Parallel session A: Sentiment analysis and Stance - Chair: Mathias Creutz |
 | | Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. Lexicon information in neural sentiment analysis: a multi-task learning approach. |
 | | Mickel Hoang, Oskar Alija Bihorac and Jacobo Rouces. Aspect-Based Sentiment Analysis using BERT. |
 | | Rasmus Lehmann and Leon Derczynski. Political Stance Detection for Danish. |
@@ -86,7 +86,7 @@
 | | Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. Projecting named entity recognizers without annotated or parallel corpora. |
 | 12:00-14:00 | Lunch break |
 | 13:00-14:00 (TBC) | NEALT business meeting | 
-| 14:00-15:15  | Parallel session A: Text generation and language modeling |
+| 14:00-15:15  | Parallel session A: Text generation and language model applications - Chair: Leon Derczynski |
 | | Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News. |
 | | Eva Pettersson and Beata Megyesi. Matching Keys and Encrypted Manuscripts. |
 | | Sidsel Boldsen and Manex Agirrezabal. The Seemingly (Un)systematic Linking Element in Danish. |
