@@ -28,7 +28,7 @@
 | 10:35-12:15  | Parallel session B: Embeddings, Biases and Language Change - Chair: Richard Johansson  |
 | | Magnus Sahlgren and Fredrik Olsson. Gender Bias in Pretrained Swedish Embeddings. |
 | | Astrid van Aggelen, Antske Fokkens, Laura Hollink and Jacco van Ossenbruggen. A larger-scale evaluation resource of terms and their shift direction for diachronic lexical semantics. |
-| | Yuri Bizzoni, Marius Mosbach, Deitrich Klakow and Stefania Degaetano-Ortlieb. Some steps towards the generation of diachronic WordNets. |
+| | Yuri Bizzoni, Marius Mosbach, Dietrich Klakow and Stefania Degaetano-Ortlieb. Some steps towards the generation of diachronic WordNets. |
 | | Karolína Hořeňovská. An evaluation of Czech word embeddings. |
 | 12:15-13:45  | Lunch break |
 | 13:45-15:00  | Parallel session A: Semantics - Chair: Marianna Apidianaki |
