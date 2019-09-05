@@ -16,7 +16,7 @@
 | 14:00-17:00  | [Workshop on NLP and Pseudonymisation](https://sweclarin.se/swe/evenemang/nlp4pseudo) | TBA |
 | 09:00-15:00  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | TBA |
 | 10:00-10:30  | Coffee break | |
-| 12:00-14:00  | Lunch break | |
+| 12:00-14:00  | Lunch break | Holiday Club Caribia |
 | 15:00-15:30  | Coffee break | |
 | 19:00 | [Welcome Reception](https://nodalida2019.org/social.html) in the Turku City Hall | |
 
@@ -38,7 +38,7 @@
 | 11:00-11:25  | Astrid van Aggelen, Antske Fokkens, Laura Hollink and Jacco van Ossenbruggen. A larger-scale evaluation resource of terms and their shift direction for diachronic lexical semantics. | |
 | 11:25-11:50  | Yuri Bizzoni, Marius Mosbach, Deitrich Klakow and Stefania Degaetano-Ortlieb. Some steps towards the generation of diachronic WordNets. | |
 | 11:50-12:15  | Karolína Hořeňovská. An evaluation of Czech word embeddings. | |
-| 12:15-13:45  | Lunch break | |
+| 12:15-13:45  | Lunch break | Holiday Club Caribia |
 | **13:45-15:00**  | **Parallel session A: Semantics** - Chair: Marianna Apidianaki | PUB1 |
 | 13:45-14:10  | Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions. | |
 | 14:10-14:35  | Hazem Al Saied, Marie Candito and Mathieu Constant. Comparing linear and neural models for competitive MWE identification. | |
@@ -92,7 +92,7 @@
 | 10:45-11:10  | Bjarte Johansen. Named-Entity Recognition for Norwegian. | |
 | 11:10-11:35  | Barbara Plank. Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish. | |
 | 11:35-12:00  | Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. Projecting named entity recognizers without annotated or parallel corpora. | |
-| 12:00-14:00 | Lunch break | |
+| 12:00-14:00 | Lunch break | Holiday Club Caribia |
 | 13:00-14:00 (TBC) | NEALT business meeting | PUB1 |
 | **14:00-15:15**  | **Parallel session A: Text Generation and Language Model Applications** - Chair: Leon Derczynski | PUB1 |
 | 14:00-14:25  | Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News. | |
