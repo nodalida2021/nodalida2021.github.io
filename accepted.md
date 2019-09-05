@@ -25,7 +25,7 @@ layout: default
 - Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News.
 - Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. Lexicon information in neural sentiment analysis: a multi-task learning approach.
 - Joakim Åkerström, Adel Daoud and Richard Johansson. Natural Language Processing in Policy Evaluation: Extracting Policy Conditions from IMF Loan Agreements.
-- José Carlos Rosales Nunes, Djamé Seddah and Guillaume Wisniewski. Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content.
+- José Carlos Rosales Nuñez, Djamé Seddah and Guillaume Wisniewski. Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content.
 - Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. Projecting named entity recognizers without annotated or parallel corpora.
 - Karolína Hořeňovská. An evaluation of Czech word embeddings.
 - Kristín Bjarnadóttir, Kristín Ingibjörg Hlynsdóttir and Steinþór Steingrímsson. DIM: The Database of Icelandic Morphology.
