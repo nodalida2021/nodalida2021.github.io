@@ -10,11 +10,11 @@
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
 | | **Workshops** | |
-| 09:00-17:00  | [NLPL Workshop on Deep Learning for Natural Language Processing](http://wiki.nlpl.eu/index.php/Community/workshop) | PUB2??? |
-| 09:00-18:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | PUB4??? |
-| 09:00-15:00  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | PUB5??? |
-| 14:00-17:00  | [Workshop on NLP and Pseudonymisation](https://sweclarin.se/swe/evenemang/nlp4pseudo) | 126??? |
-| 09:00-15:00  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | 150??? |
+| 09:00-17:00  | [NLPL Workshop on Deep Learning for Natural Language Processing](http://wiki.nlpl.eu/index.php/Community/workshop) | TBA |
+| 09:00-18:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | TBA |
+| 09:00-15:00  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | TBA |
+| 14:00-17:00  | [Workshop on NLP and Pseudonymisation](https://sweclarin.se/swe/evenemang/nlp4pseudo) | TBA |
+| 09:00-15:00  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | TBA |
 | 10:00-10:30  | Coffee break | |
 | 12:00-14:00  | Lunch break | |
 | 15:00-15:30  | Coffee break | |
@@ -25,8 +25,8 @@
 
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
-| 09:00-09:15  | Opening | PUB1??? |
-| **09:15-10:05**  | **Keynote by Marie-Catherine de Marneffe: TITLE???** - Chair: Joakim Nivre | PUB1 |
+| 09:00-09:15  | Opening | PUB1 |
+| **09:15-10:05**  | **Keynote by Marie-Catherine de Marneffe** - Chair: Joakim Nivre | PUB1 |
 | 10:05-10:35  | Coffee break | |
 | **10:35-12:15**  | **Parallel session A: Multilinguality and Machine Translation** - Chair: Jörg Tiedemann | PUB1 |
 | 10:35-11:00  | José Carlos Rosales Nuñez, Djamé Seddah and Guillaume Wisniewski. Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content. | |
@@ -56,7 +56,7 @@
 | 15:30-15:55  | Petter Mæhlum, Jeremy Claude Barnes, Lilja Øvrelid and Erik Velldal. Annotating evaluative sentences for sentiment analysis: a dataset for Norwegian. | |
 | 15:55-16:20  | David Alfter and Johannes Graën. Interconnecting lexical resources and word alignment: How do learners get on with particle verbs? | |
 | 16:20-16:45  | Hans Moen, Laura-Maria Peltonen, Henry Suhonen, Hanna-Maria Matinolli, Riitta Mieronkoski, Kirsi Telen, Kirsi Terho, Tapio Salakoski and Sanna Salanterä. An Unsupervised Query Rewriting Approach Using N-gram Co-occurrence Statistics to Find Similar Phrases in Large Text Corpora. | |
-| **16:45-17:45** | **Poster and demo session** | ??? |
+| **16:45-17:45** | **Poster and demo session** | Entrance hall |
 | 16:45-17:45 | Posters: | |
 | | Starkaður Barkarson and Steinþór Steingrímsson. Compiling and Filtering ParIce: An English-Icelandic Parallel Corpus. | |
 | | Valentin Barriere and Amaury Fouret. May I Check Again? — A simple but efficient way to generate and use contextual dictionaries for Named Entity Recognition. Application to French Legal Texts. | |
@@ -93,7 +93,7 @@
 | 11:10-11:35  | Barbara Plank. Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish. | |
 | 11:35-12:00  | Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. Projecting named entity recognizers without annotated or parallel corpora. | |
 | 12:00-14:00 | Lunch break | |
-| 13:00-14:00 (TBC) | NEALT business meeting | |
+| 13:00-14:00 (TBC) | NEALT business meeting | PUB1 |
 | **14:00-15:15**  | **Parallel session A: Text Generation and Language Model Applications** - Chair: Leon Derczynski | PUB1 |
 | 14:00-14:25  | Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. Template-free Data-to-Text Generation of Finnish Sports News. | |
 | 14:25-14:50  | Eva Pettersson and Beata Megyesi. Matching Keys and Encrypted Manuscripts. | |
@@ -103,5 +103,5 @@
 | 14:25-14:50  | Evgeniia Rykova and Stefan Werner. Perceptual and acoustic analysis of voice similarities between parents and young children. | |
 | 14:50-15:15  | Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations. | |
 | 15:15-15:45 | Coffee Break | |
-| **15:45-16:25** | **Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson)** - Chair: Filip Ginter | PUB1??? |
-| 16:25-16:35 | Closing | PUB1??? |
+| **15:45-16:25** | **Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson)** - Chair: Filip Ginter | PUB1 |
+| 16:25-16:35 | Closing | PUB1 |
