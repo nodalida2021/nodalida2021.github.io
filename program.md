@@ -1,7 +1,9 @@
 # Program 
 
 * [Program Outline](#outline)
-* [Detailed Program](#details) (under construction)
+* [Detailed Program](#) (under construction)
+
+N.B. All times are EEST.
 
 # <a name="outline"></a>Program Outline
 
@@ -52,6 +54,3 @@
 | 16:25-16:35 | Closing |
 
 
-# <a name="details"></a>Detailed Program
-
-Stay tuned - it will be available very soon! (msg from Sep 2, 2019)
