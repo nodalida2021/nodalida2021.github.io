@@ -9,6 +9,7 @@
 
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
+| 08:00-09:00  | Registration | |
 | | **Workshops** | |
 | 09:00-17:00  | [NLPL Workshop on Deep Learning for Natural Language Processing](http://wiki.nlpl.eu/index.php/Community/workshop) | TBA |
 | 09:00-18:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | TBA |
