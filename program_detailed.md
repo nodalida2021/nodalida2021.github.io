@@ -27,7 +27,7 @@
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
 | 09:00-09:15  | Opening | PUB1 |
-| **09:15-10:05**  | **Keynote by Marie-Catherine de Marneffe**<br>Chair: Joakim Nivre | PUB1 |
+| **09:15-10:05**  | **Keynote by Marie-Catherine de Marneffe: Do you know that there’s still in a chance? Identifying speaker commitment for natural language understanding**<br>Chair: Joakim Nivre | PUB1 |
 | 10:05-10:35  | Coffee break | |
 | **10:35-12:15**  | **Parallel session A: Multilinguality and Machine Translation**<br>Chair: Jörg Tiedemann | PUB1 |
 | 10:35-11:00  | Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content.<br>José Carlos Rosales Nuñez, Djamé Seddah and Guillaume Wisniewski. | |
