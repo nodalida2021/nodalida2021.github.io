@@ -7,7 +7,8 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
 <!-- Box -->
 <div class="box" markdown="1">
   <p><b>LATEST NEWS</b></p>
-  <p><b>September 2</b> The <a href="https://nodalida2019.org/program.html">outline of the program</a> is online - The detailed program will be published very soon</p>
+  <p><b>September 6</b> The <a href="https://nodalida2019.org/program_detailed.html">detailed program</a> is available now</p>
+  <p><b>September 2</b> The <a href="https://nodalida2019.org/program.html">outline of the program</a> is online</p>
 
   <p><b>August 20</b> The <a href="https://nodalida2019.org/accepted.html">list of accepted papers</a> is online</p>
   <p><b>August 9</b> <a href="https://nodalida2019.org/registration.html">Registration open</a>, deadline August 31</p>
