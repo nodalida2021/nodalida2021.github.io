@@ -1,7 +1,7 @@
 # Program 
 
 * [Program Outline](#outline)
-* [Detailed Program](#) (under construction)
+* [Detailed Program](https://nodalida2019.org/program_detailed.html)
 
 N.B. All times are EEST.
 
