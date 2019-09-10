@@ -100,8 +100,8 @@
 | 14:25-14:50  | Matching Keys and Encrypted Manuscripts.<br>Eva Pettersson and Beata Megyesi. | |
 | 14:50-15:15  | The Seemingly (Un)systematic Linking Element in Danish.<br>Sidsel Boldsen and Manex Agirrezabal. | |
 | **14:00-15:15**  | **Parallel session B: Speech**<br>Chair: Grzegorz Chrupała | PUB3 |
-| 14:00-14:25  | Enhancing Natural Language Understanding through Cross-Modal Interaction: Meaning Recovery from Acoustically Noisy Speech.<br>Ozge Alacam. | |
-| 14:25-14:50  | Perceptual and acoustic analysis of voice similarities between parents and young children.<br>Evgeniia Rykova and Stefan Werner. | |
+| 14:00-14:25  | Perceptual and acoustic analysis of voice similarities between parents and young children.<br>Evgeniia Rykova and Stefan Werner. | |
+| 14:25-14:50  | Enhancing Natural Language Understanding through Cross-Modal Interaction: Meaning Recovery from Acoustically Noisy Speech.<br>Ozge Alacam. | |
 | 14:50-15:15  | Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations.<br>Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. | |
 | 15:15-15:45 | Coffee Break | |
 | **15:45-16:25** | **Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson)**<br>Chair: Filip Ginter | PUB1 |
