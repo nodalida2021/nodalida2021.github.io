@@ -28,8 +28,21 @@ layout: default
 * **Kairit Sirts**, University of Tartu, Estonia
 
 
-## Local Chairs
+## Local Organizers
 
-* **Filip Ginter**, University of Turku, Finland
-* **Jenna Kanerva**, University of Turku, Finland
-
+* **Filip Ginter** (chair)
+* **Jenna Kanerva** (chair)
+* **Li-Hsin Chang**
+* **Rami Ilo**
+* **Suwisa Kaewphan**
+* **Kai Hakala**
+* **Akseli Leino**
+* **Juhani Luotolahti**
+* **Farrokh Mehryary**
+* **Hans Moen**
+* **Maria Pyykönen**
+* **Sampo Pyysalo**
+* **Samuel Rönnqvist**
+* **Antti Saloranta**
+* **Antti Virtanen**
+* **Sanna Volanen**
