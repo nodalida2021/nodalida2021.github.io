@@ -68,7 +68,7 @@
 |   | Tagging a Norwegian Dialect Corpus.<br>Andre Kåsen, Anders Nøklestad, Kristin Hagen and Joel Priestley. | |
 |   | The Lacunae of Danish Natural Language Processing.<br>Andreas Kirkedal, Barbara Plank, Leon Derczynski and Natalie Schluter. | |
 |   | Tools for supporting language learning for Sakha.<br>Sardana Ivanova, Anisia Katinskaia and Roman Yangarber. | |
-|   | Inferring morphology from small examples using 0/1 linear programming.<br>Ann Lillieström, Koen Claessen and Nicholas Smallbone. | |
+|   | Inferring morphological rules from small examples using 0/1 linear programming.<br>Ann Lillieström, Koen Claessen and Nicholas Smallbone. | |
 | 16:45-17:45 | Demos: | |
 |   | LEGATO: A flexible lexicographic annotation tool.<br>David Alfter, Therese Lindström Tiedemann and Elena Volodina. | |
 |   | The OPUS Resource Repository: An Open Package for Creating Parallel Corpora and Machine Translation Services.<br>Mikko Aulamo and Jörg Tiedemann. | |
