@@ -36,6 +36,7 @@ layout: default
 * **Rami Ilo**
 * **Suwisa Kaewphan**
 * **Kai Hakala**
+* **Veronika Laippala**
 * **Akseli Leino**
 * **Juhani Luotolahti**
 * **Farrokh Mehryary**
