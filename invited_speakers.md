@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## <a name="marie"></a>Marie-Catherine de Marneffe: Do you know that there’s still in a chance? Identifying speaker commitment for natural language understanding
+## <a name="marie"></a>Marie-Catherine de Marneffe: Do you know that there’s still a chance? Identifying speaker commitment for natural language understanding
 
 **Ohio State University**
 
