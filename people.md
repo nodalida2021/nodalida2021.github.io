@@ -35,6 +35,7 @@ layout: default
 * **Li-Hsin Chang**
 * **Rami Ilo**
 * **Suwisa Kaewphan**
+* **Roosa Kyllönen**
 * **Kai Hakala**
 * **Veronika Laippala**
 * **Akseli Leino**
