@@ -14,7 +14,7 @@ N.B. All times are EEST.
 | ------------- | ------------- |
 | 08:00- | Registration opens |
 | 09:00-17:00 | NLPL Workshop on Deep Learning for Natural Language Processing  |
-| 09:00-18:00 (tbc) | NLP for Computer-Assisted Language Learning (NLP4CALL)  |
+| 09:00-18:00 | NLP for Computer-Assisted Language Learning (NLP4CALL)  |
 | 09:00-15:00  | Constraint Grammar - Methods, Tools and Applications |
 | 14:00-17:00  | Workshop on NLP and pseudonymisation  |
 | 09:00-15:00  | The Second Financial Narrative Processing Workshop (FNP 2019)  |
@@ -46,7 +46,7 @@ N.B. All times are EEST.
 | 09:00-09:50  | Keynote by Grzegorz Chrupała | 
 | 09:50-10:20  | Coffee break |
 | 10:20-12:00  | Parallel sessions |
-| 12:00-14:00 | Lunch break |
+| 12:00-13:00 | Lunch break |
 | 13:00-14:00 | NEALT business meeting | 
 | 14:00-15:15  | Parallel sessions |
 | 15:15-15:45 | Coffee Break |
