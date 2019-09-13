@@ -93,8 +93,8 @@
 | 10:45-11:10  | Named-Entity Recognition for Norwegian.<br>Bjarte Johansen. | |
 | 11:10-11:35  | Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish.<br>Barbara Plank. | |
 | 11:35-12:00  | Projecting named entity recognizers without annotated or parallel corpora.<br>Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. | |
-| 12:00-14:00 | Lunch break | Holiday Club Caribia |
-| 13:00-14:00 (TBC) | NEALT business meeting | PUB1 |
+| 12:00-13:00 | Lunch break | Holiday Club Caribia |
+| 13:00-14:00  | NEALT business meeting | PUB1 |
 | **14:00-15:15**  | **Parallel session A: Text Generation and Language Model Applications**<br>Chair: Leon Derczynski | PUB1 |
 | 14:00-14:25  | Template-free Data-to-Text Generation of Finnish Sports News.<br>Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. | |
 | 14:25-14:50  | Matching Keys and Encrypted Manuscripts.<br>Eva Pettersson and Beata Megyesi. | |
