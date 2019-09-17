@@ -47,8 +47,7 @@ layout: default
 
 
 <block style="margin:40px" class="4u$ 12u$(small)">
-<h2>Silver</h2>
-<span class="image"><a href="https://turku.fi"><img src="images/turku_logo.png" alt="Nationella språkbanken" width="300px" /></a></span>
+<span class="image"><a href="https://turku.fi"><img src="images/turku_logo.png" alt="Turku logo" width="300px" /></a></span>
 </block>
 
 
