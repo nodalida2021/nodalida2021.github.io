@@ -50,9 +50,9 @@ layout: default
 </block>
 
 
-<block style="margin:90px" class="4u 12u$(small)">
+<block style="margin:40px" class="4u 12u$(small)">
 <h2>Bronze</h2>
-<span class="image"><a href="http://omilia.uio.no/nealt/"><img src="http://omilia.uio.no/nealt/gfx/nealt.png" alt="NEALT Logo" width="199px" /></a></span>
+<span class="image" style="margin:50px"><a href="http://omilia.uio.no/nealt/"><img src="http://omilia.uio.no/nealt/gfx/nealt.png" alt="NEALT Logo" width="199px" /></a></span>
 </block>
 
 
