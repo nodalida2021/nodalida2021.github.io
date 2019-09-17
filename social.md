@@ -46,7 +46,7 @@ Bus number 1 timetable:
   * 22:00 22:20 22:50
   * 23:20
 
-Bus stop location in the centre:
+Bus stop location in the centre for going to the conference dinner:
 
 <div class="row">
 <div class="col-6 col-12-medium">
