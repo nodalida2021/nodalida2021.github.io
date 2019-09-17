@@ -14,4 +14,5 @@ The conference will be held at University of Turku. The university campus is in 
 Building: Publicum  
 Street address: Assistentinkatu 7, 20500 Turku  
 Map: [Google Maps](https://goo.gl/maps/aumFgrxJVg6nvgiTA)
+Getting there: [Google Maps](https://drive.google.com/open?id=1vwgq22PdxMBK6g294YI1ZqrbmYh3Ortt&usp=sharing)
 
