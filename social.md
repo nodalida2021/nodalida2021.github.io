@@ -46,5 +46,12 @@ Bus number 1 timetable:
   * 22:00 22:20 22:50
   * 23:20
 
+Bus stop location in the centre:
+
+<div class="row">
+<div class="col-6 col-12-medium">
+     <span class="image fit"><img src="images/bus_stops.png" alt="bus nro 1" /></span>
+</div>
+</div>
 
 
