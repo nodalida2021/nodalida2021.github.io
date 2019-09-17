@@ -34,8 +34,8 @@ The conference dinner will be held in the Turku Castle
 * Turku Castle, King's Hall, Linnankatu 80
 * By the harbour, 30-45 min (3km) walk from the city centre, following the Aura river
 * Full dinner and drinks
-* Transport there: bus number 1 direction "satama" (harbour) from the city centre, walk, rental city bikes, and rental kickbikes are other transport options. 
-* Transport back: the above options, plus we will have several busses leaving the venue at 23.10 stopping in the centre and by the Caribia hotel.
+* **Transport there:** bus number 1 direction "satama" (harbour) from the city centre, walk, rental city bikes, and rental kickbikes are other transport options. 
+* **Transport back:** the above options, **plus we will have several busses leaving the venue at 23.10** stopping in the centre and by the Caribia hotel.
 
 Bus number 1 timetable:
 
