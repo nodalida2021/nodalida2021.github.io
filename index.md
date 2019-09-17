@@ -16,8 +16,8 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
 <div class="table-wrapper">
   <table>
     <tbody>
-      <tr><td><s>Submission - main conference</td> <td> June 7, 2019 (extended)</s></td></tr>
-      <tr><td><s>Notification - main conference</td> <td> July 12, 2019 </s></td></tr>
+      <tr><td>Submission - main conference</td> <td><s> June 7, 2019 (extended)</s></td></tr>
+      <tr><td>Notification - main conference</td> <td><s> July 12, 2019 </s></td></tr>
       <tr><td>Workshops</td> <td> September 30, 2019 </td></tr>
       <tr><td>Main conference</td> <td> October 1-2, 2019 </td></tr>
     </tbody>
