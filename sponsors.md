@@ -23,7 +23,7 @@ layout: default
 
 <div class="row">
 
-<block style="margin:40px" class="4u$ 12u$(small)">
+<block style="margin:40px" class="4u 12u$(small)">
 <h2>Gold</h2>
 <span class="image"><a href="https://turku.fi"><img src="images/turku_logo.png" alt="Turku logo" width="300px" /></a></span>
 </block>
@@ -35,7 +35,7 @@ layout: default
 </block>
 
 
-<block style="margin:40px" class="4u 12u$(small)">
+<block style="margin:40px" class="4u$ 12u$(small)">
 <h2>Silver</h2>
 <span class="image"><a href="https://www.sprakochfolkminnen.se/om-oss/forskning/sprakbanken-sam/nationella-sprakbanken.html"><img src="images/nationella_sb.png" alt="Nationella språkbanken" width="300px" /></a></span>
 </block>
@@ -44,19 +44,16 @@ layout: default
 
 <div class="row">
 
-<block style="margin:40px" class="4u$ 12u$(small)">
+<block style="margin:40px" class="4u 12u$(small)">
 <h2>Bronze</h2>
 <span class="image"><a href="https://kindly.ai/"><img src="images/kindly_logo.png" alt="Kindly Logo" width="300px" /></a></span>
 </block>
 
 
-<block style="margin:90px" class="4u 12u$(small)">
+<block style="margin:90px" class="4u$ 12u$(small)">
 <h2>Bronze</h2>
 <span class="image"><a href="http://omilia.uio.no/nealt/"><img src="http://omilia.uio.no/nealt/gfx/nealt.png" alt="NEALT Logo" width="199px" /></a></span>
 </block>
-
-
-
 
 </div>
 
