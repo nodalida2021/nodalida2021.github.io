@@ -75,7 +75,7 @@
 |   | Garnishing a phonetic dictionary for ASR intake.<br>Iben Nyholm Debess, Sandra Saxov Lamhauge and Peter Juel Henrichsen. | |
 |   | Docria: Processing and Storing Linguistic Data with Wikipedia.<br>Marcus Klang and Pierre Nugues. | |
 |   | UniParse: A universal graph-based parsing toolkit.<br>Daniel Varab and Natalie Schluter. | |
-| 19:30-23:59 | [Conference Dinner](https://nodalida2019.org/social.html) in the Turku Castle | |
+| 19:30-23:00 | [Conference Dinner](https://nodalida2019.org/social.html) in the Turku Castle | |
 
 ## Wednesday October 2, 2019
 
