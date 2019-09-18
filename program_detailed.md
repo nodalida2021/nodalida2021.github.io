@@ -105,4 +105,4 @@
 | 14:50-15:15  | Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations.<br>Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. | |
 | 15:15-15:45 | Coffee Break | |
 | **15:45-16:25** | **Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson)**<br>Chair: Filip Ginter | PUB1 |
-| 16:25-16:35 | Closing | PUB1 |
+| 16:25-16:35 | Closing and announcement of NoDaLiDa'21 | PUB1 |
