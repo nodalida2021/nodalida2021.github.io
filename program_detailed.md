@@ -27,7 +27,7 @@
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
 | 09:00-09:15  | Opening | PUB1 |
-| **09:15-10:05**  | **[Keynote](https://nodalida2019.org/invited_speakers.html) by Marie-Catherine de Marneffe: Do you know that there’s still a chance? Identifying speaker commitment for natural language understanding**<br>Chair: Joakim Nivre | PUB1 |
+| **09:15-10:05**  | **[Keynote](https://nodalida2019.org/invited_speakers.html#marie) by Marie-Catherine de Marneffe: Do you know that there’s still a chance? Identifying speaker commitment for natural language understanding**<br>Chair: Joakim Nivre | PUB1 |
 | 10:05-10:35  | Coffee break | |
 | **10:35-12:15**  | **Parallel session A: Multilinguality and Machine Translation**<br>Chair: Jörg Tiedemann | PUB1 |
 | 10:35-11:00  | Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content.<br>José Carlos Rosales Nuñez, Djamé Seddah and Guillaume Wisniewski. | |
@@ -81,7 +81,7 @@
 
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
-| **09:00-09:50**  | **[Keynote](https://nodalida2019.org/invited_speakers.html) by Grzegorz Chrupała: Investigating Neural Representations of Speech and Language**<br>Chair: Lilja Øvrelid | PUB1 |
+| **09:00-09:50**  | **[Keynote](https://nodalida2019.org/invited_speakers.html#grzegorz) by Grzegorz Chrupała: Investigating Neural Representations of Speech and Language**<br>Chair: Lilja Øvrelid | PUB1 |
 | 09:50-10:20  | Coffee break | |
 | **10:20-12:00**  | **Parallel session A: Sentiment Analysis and Stance**<br>Chair: Mathias Creutz | PUB1 |
 | 10:20-10:45  | Lexicon information in neural sentiment analysis: a multi-task learning approach.<br>Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. | |
