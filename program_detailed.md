@@ -12,10 +12,10 @@
 | 08:00-09:00  | Registration | |
 | | **Workshops** | |
 | 09:00-17:00  | [NLPL Workshop on Deep Learning for Natural Language Processing](http://wiki.nlpl.eu/index.php/Community/workshop) | PUB2 |
-| 09:00-18:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | PUB5 |
-| 09:00-15:00  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | PUB 209 |
+| 09:00-17:30  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | PUB5 |
+| 09:00-15:30  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | PUB 209 |
 | 14:00-17:00  | [Workshop on NLP and Pseudonymisation](https://sweclarin.se/swe/evenemang/nlp4pseudo) | PUB4 |
-| 09:00-15:00  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | PUB 126 |
+| 09:00-15:30  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | PUB 126 |
 | 10:00-10:30  | Coffee break | |
 | 12:00-14:00  | Lunch break | Holiday Club Caribia |
 | 15:00-15:30  | Coffee break | |
