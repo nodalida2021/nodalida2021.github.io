@@ -21,7 +21,7 @@ Both the welcome reception (30 September) and conference dinner (1 October) are 
 
 ## Registration form
 
-**The registration is now closed.** You can still register on-site using cash or credit card, however the availability of conference dinner tickets is restricted and the remaining quota will be allocated on a first-come first-serve basis.
+**The registration is now closed.** You can still register on-site using cash or credit card, however the availability of conference dinner tickets is restricted and the remaining quota will be allocated on a first-come first-served basis.
 
 <!-- <a href="https://www.lyyti.in/NoDaLiDa_2019_registration">Online registration form</a> -->
 
