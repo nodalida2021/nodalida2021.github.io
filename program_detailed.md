@@ -41,8 +41,8 @@
 | 11:50-12:15  | An evaluation of Czech word embeddings.<br>Karolína Hořeňovská. | |
 | 12:15-13:45  | Lunch break | Holiday Club Caribia |
 | **13:45-15:00**  | **Parallel session A: Semantics**<br>Chair: Marianna Apidianaki | PUB1 |
-| 13:45-14:10  | Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions.<br>Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. | |
-| 14:10-14:35  | Comparing linear and neural models for competitive MWE identification.<br>Hazem Al Saied, Marie Candito and Mathieu Constant. | |
+| 13:45-14:10 | Comparing linear and neural models for competitive MWE identification.<br>Hazem Al Saied, Marie Candito and Mathieu Constant. | |
+| 14:10-14:35 | Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions.<br>Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. | |
 | 14:35-15:00  | A Wide-Coverage Symbolic Natural Language Inference System.<br>Stergios Chatzikyriakidis and Jean-Philippe Bernardy. | |
 | **13:45-15:00**  | **Parallel session B: Morphology and Syntax**<br>Chair: Kairit Sirts | PUB3 |
 | 13:45-14:10  | Ensembles of Neural Morphological Inflection Models.<br>Ilmari Kylliäinen and Miikka Silfverberg. | |
