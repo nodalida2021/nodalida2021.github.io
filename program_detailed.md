@@ -12,10 +12,10 @@
 | 08:00-09:00  | Registration | |
 | | **Workshops** | |
 | 09:00-17:00  | [NLPL Workshop on Deep Learning for Natural Language Processing](http://wiki.nlpl.eu/index.php/Community/workshop) | PUB2 |
-| 09:00-18:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | PUB5 |
-| 09:00-15:00  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | PUB 209 |
+| 09:00-17:30  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | PUB5 |
+| 09:00-15:30  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | PUB 209 |
 | 14:00-17:00  | [Workshop on NLP and Pseudonymisation](https://sweclarin.se/swe/evenemang/nlp4pseudo) | PUB4 |
-| 09:00-15:00  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | PUB 126 |
+| 09:00-15:30  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | PUB 126 |
 | 10:00-10:30  | Coffee break | |
 | 12:00-14:00  | Lunch break | Holiday Club Caribia |
 | 15:00-15:30  | Coffee break | |
@@ -27,7 +27,7 @@
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
 | 09:00-09:15  | Opening | PUB1 |
-| **09:15-10:05**  | **[Keynote](https://nodalida2019.org/invited_speakers.html) by Marie-Catherine de Marneffe: Do you know that there’s still a chance? Identifying speaker commitment for natural language understanding**<br>Chair: Joakim Nivre | PUB1 |
+| **09:15-10:05**  | **[Keynote](https://nodalida2019.org/invited_speakers.html#marie) by Marie-Catherine de Marneffe: Do you know that there’s still a chance? Identifying speaker commitment for natural language understanding**<br>Chair: Joakim Nivre | PUB1 |
 | 10:05-10:35  | Coffee break | |
 | **10:35-12:15**  | **Parallel session A: Multilinguality and Machine Translation**<br>Chair: Jörg Tiedemann | PUB1 |
 | 10:35-11:00  | Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content.<br>José Carlos Rosales Nuñez, Djamé Seddah and Guillaume Wisniewski. | |
@@ -75,13 +75,13 @@
 |   | Garnishing a phonetic dictionary for ASR intake.<br>Iben Nyholm Debess, Sandra Saxov Lamhauge and Peter Juel Henrichsen. | |
 |   | Docria: Processing and Storing Linguistic Data with Wikipedia.<br>Marcus Klang and Pierre Nugues. | |
 |   | UniParse: A universal graph-based parsing toolkit.<br>Daniel Varab and Natalie Schluter. | |
-| 19:30-23:59 | [Conference Dinner](https://nodalida2019.org/social.html) in the Turku Castle | |
+| 19:30-23:00 | [Conference Dinner](https://nodalida2019.org/social.html) in the Turku Castle | |
 
 ## Wednesday October 2, 2019
 
 | Time  | Session | Room |
 | ------------- | ------------- | ------------- |
-| **09:00-09:50**  | **[Keynote](https://nodalida2019.org/invited_speakers.html) by Grzegorz Chrupała: Investigating Neural Representations of Speech and Language**<br>Chair: Lilja Øvrelid | PUB1 |
+| **09:00-09:50**  | **[Keynote](https://nodalida2019.org/invited_speakers.html#grzegorz) by Grzegorz Chrupała: Investigating Neural Representations of Speech and Language**<br>Chair: Lilja Øvrelid | PUB1 |
 | 09:50-10:20  | Coffee break | |
 | **10:20-12:00**  | **Parallel session A: Sentiment Analysis and Stance**<br>Chair: Mathias Creutz | PUB1 |
 | 10:20-10:45  | Lexicon information in neural sentiment analysis: a multi-task learning approach.<br>Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. | |
@@ -105,4 +105,4 @@
 | 14:50-15:15  | Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations.<br>Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. | |
 | 15:15-15:45 | Coffee Break | |
 | **15:45-16:25** | **Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson)**<br>Chair: Filip Ginter | PUB1 |
-| 16:25-16:35 | Closing | PUB1 |
+| 16:25-16:35 | Closing and announcement of NoDaLiDa'21 | PUB1 |

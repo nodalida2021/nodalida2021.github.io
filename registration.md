@@ -4,11 +4,11 @@ layout: default
 
 ## Registration and fees
 
-The standard registration deadline has passed. Late / on-site registration now applies.
+Both standard and late registrations have passed. The **registration is now closed** (see below for on-site registration)
 
-The registration fees include attendance in the workshops and the main conference, coffee and lunch on the conference and workshop days, as well as the welcome reception on 30 September and the conference dinner on 1 October. Conference dinner can be guaranteed only for late registrations received **before September 15** for logistical reasons.
+The registration fees include attendance in the workshops and the main conference, coffee and lunch on the conference and workshop days, as well as the welcome reception on 30 September and the conference dinner on 1 October, provided that you indicated attendance in the registration form.
 
-Late and on-site registration prices:
+On-site registration prices:
 
 * Regular participant 300 EUR
 * Student 270 EUR
@@ -17,17 +17,20 @@ The registration fees are not subject to VAT.
 
 ## Social programme
 
-Both the welcome reception (30 September) and conference dinner (1 October) are included, provided that you indicate attendance in the registration form.
+Both the welcome reception (30 September) and conference dinner (1 October) are included, provided that you indicated attendance in the registration form.
 
 ## Registration form
 
-<a href="https://www.lyyti.in/NoDaLiDa_2019_registration">Online registration form</a>
+**The registration is now closed.** You can still register on-site using cash or credit card, however the availability of conference dinner tickets is restricted and the remaining quota will be allocated on a first-come first-served basis.
 
-Methods of payment:
+<!-- <a href="https://www.lyyti.in/NoDaLiDa_2019_registration">Online registration form</a> -->
+
+Methods of payment for on-site registration:
 
 1. Credit card payment (Visa, Mastercard) No transaction fee.
 2. PDF Invoice (a transaction fee of 10 EUR will be added) A PDF invoice will be sent to your e-mail after you have submitted your registration, payment with bank transfer.
-3. E-invoice: for Finnish payments only (a transaction fee of 10 EUR will be added) An e-invoice will be sent to the given e-invoicing address.
+3. Cash (exact amount)
+<!-- 3. E-invoice: for Finnish payments only (a transaction fee of 10 EUR will be added) An e-invoice will be sent to the given e-invoicing address. -->
 
 Please make sure to give the correct invoicing address. An extra invoicing charge of 5 EUR will be added in case a new invoice is processed (revised PDF or e-invoice due to wrong address, or otherwise modified). All payments must be made in euros (EUR).
 
