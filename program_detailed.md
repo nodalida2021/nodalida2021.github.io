@@ -5,6 +5,9 @@
 
 # <a name="details"></a>Detailed Program
 
+Changes:
+- Semantics session: order of the first two talks has switched (23/09)
+
 ## Monday September 30, 2019 Workshops
 
 | Time  | Session | Room |
