@@ -6,7 +6,20 @@ layout: default
 
 The lunch will be served on every day between 12-14 in the Restaurant Terrace in the nearby Hotel Caribia. The hotel is 5 minutes slow walk away and can be seen from in front of the conference venue.
 
-[MAP](https://goo.gl/maps/WAtkqcfo8uzEarAS9)
+[Location](https://goo.gl/maps/WAtkqcfo8uzEarAS9)
+
+<div class="row">
+<div class="col-6 col-12-medium">
+     <span class="image fit"><img src="holiday_club_caribia.png" alt="Caribia" /></span>
+</div>
+</div>
+
+<div class="row">
+<div class="col-6 col-12-medium">
+     <span class="image fit"><img src="publicum_caribia.png" alt="Caribia route" /></span>
+</div>
+</div>
+
 
 ## Local information
 
