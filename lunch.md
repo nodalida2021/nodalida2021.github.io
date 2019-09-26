@@ -2,6 +2,8 @@
 layout: default
 ---
 
+All information about WiFi access, maps, local transport, etc can be found in the <a href="nodalida19_booklet.pdf">conference booklet</a>
+
 ## Lunch
 
 The lunch will be served on every day between 12-14 in the Restaurant Terrace in the nearby Hotel Caribia. The hotel is 5 minutes slow walk away and can be seen from in front of the conference venue.
@@ -19,11 +21,6 @@ The lunch will be served on every day between 12-14 in the Restaurant Terrace in
      <span class="image fit"><img src="images/publicum_caribia.png" alt="Caribia route" /></span>
 </div>
 </div>
-
-
-## Local information
-
-All information about WiFi access, maps, local transport, etc can be found in the <a href="nodalida19_booklet.pdf">conference booklet</a>
 
 ## Free WIFI networks at the venue
 
