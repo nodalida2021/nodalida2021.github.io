@@ -15,7 +15,7 @@ layout: default
 The welcome reception is sponsored by the city of Turku
 
 * Monday 30.9.2019, 19.00-20.30
-* Old Town Hall, Aurakatu 2, Turku
+* **New** Town Hall, Aurakatu 2, Turku (**not old** town hall)
 * In the city centre, 20-30 min walk from the conference, 2km
 * Snacks and a drink
 
