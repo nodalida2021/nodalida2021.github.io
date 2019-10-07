@@ -9,8 +9,6 @@ The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be he
   <p><b>LATEST NEWS</b></p>
   <p><b>October 2</b> Next NoDaLiDa will be in 2021 in Reykjavík, Iceland</p>
   <p><b>October 1</b> Proceedings now in the <a href="https://aclweb.org/anthology/volumes/W19-61/">ACL anthology</a> </p>
-  <p><b>September 20</b> <a href="https://nodalida2019.org/registration.html">Registration closed</a></p>
-  <p><b>September 6</b> The <a href="https://nodalida2019.org/program_detailed.html">detailed program</a> is available now</p>
 </div>
 
 ## Important dates <a id="dates"></a>
