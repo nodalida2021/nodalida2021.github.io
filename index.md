@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19) will be held in Turku, Finland. The conference is a two-day event with one additional day of workshops. The conference is hosted by the <a href="https://turkunlp.org">TurkuNLP</a> research group at the <a href="https://tech.utu.fi">Department of Future Technologies, University of Turku</a>.
+The 23nd Nordic Conference on Computational Linguistics (NoDaLiDa'21) will be held in Reykjavik, Iceland. The conference is a two-day event with one additional day of workshops. The conference takes place at <a href="http://www.ru.is">Reykjavik University</a> and is hosted by the <a href="http://iclt.is">The Icelandic Center for Language Technology</a>. 
 
 <!-- Box -->
 <div class="box" markdown="1">
