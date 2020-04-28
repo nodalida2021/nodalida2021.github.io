@@ -4,47 +4,32 @@ layout: default
 
 ## General Chair
 
-* **Barbara Plank**, IT University of Copenhagen, Denmark
+* **Lilja Øvrelid**, University of Oslo, Norway
 
 ## Program Chairs
 
-* **Jurgita Kapočiūtė-Dzikienė**, Vytautas Magnus University, Lithuania
-* **Hrafn Loftsson**, Reykjavík University, Iceland
-* **Patrizia Paggio**, University of Copenhagen, Denmark
-* **Jörg Tiedemann**, University of Helsinki, Finland
-* **Erik Velldal**, University of Oslo, Norway
+* **Barbara Plank**, IT University of Copenhagen, Denmark
+* **Name 2**, University2, Country2
+* **Name 3**, University3, Country3
+* **Name 4**, University4, Country4
+* **Name 5**, University5, Country5
 
 ## Publication Chair
 
-* **Mareike Hartmann**, University of Copenhagen, Denmark
+* **Some person**, University, Country
 
 ## Social Media Chair
 
-* **Miryam de Lhoneux**, Uppsala University, Sweden
+* **Some person**, University, Country
 
 ## Workshop Chairs
 
-* **Richard Johansson**, Chalmers Technical University and University of Gothenburg, Sweden
-* **Kairit Sirts**, University of Tartu, Estonia
+* **Workshop chair 1**, University, Country
+* **Workshope chair 2**, University, Country
 
 
 ## Local Organizers
 
-* **Filip Ginter** (chair)
-* **Jenna Kanerva** (chair)
-* **Li-Hsin Chang**
-* **Rami Ilo**
-* **Suwisa Kaewphan**
-* **Roosa Kyllönen**
-* **Kai Hakala**
-* **Veronika Laippala**
-* **Akseli Leino**
-* **Juhani Luotolahti**
-* **Farrokh Mehryary**
-* **Hans Moen**
-* **Maria Pyykönen**
-* **Sampo Pyysalo**
-* **Samuel Rönnqvist**
-* **Antti Saloranta**
-* **Antti Virtanen**
-* **Sanna Volanen**
+* **Hrafn Loftsson**, Reykjavik University (chair)
+* **Anton Karl Ingason**, University of Iceland (chair)
+* **Steinþór Steingrímsson**, Arni Magnusson Institute of Icelandic Studies (chair)
