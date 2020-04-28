@@ -17,10 +17,10 @@ The 23nd Nordic Conference on Computational Linguistics (NoDaLiDa'21) will be he
 <div class="table-wrapper">
   <table>
     <tbody>
-      <tr><td>Submission - main conference</td> <td><s> February 8, 2021 </s></td></tr>
-      <tr><td>Notification - main conference</td> <td><s> March 22, 2021 </s></td></tr>
-      <tr><td>Workshops</td> <td> <s>May 31, 2021 </s></td></tr>
-      <tr><td>Main conference</td> <td> <s>June 1-2, 2021 </s></td></tr>
+      <tr><td>Submission - main conference</td> <td>February 8, 2021</td></tr>
+      <tr><td>Notification - main conference</td> <td>March 22, 2021</td></tr>
+      <tr><td>Workshops</td> <td>May 31, 2021</td></tr>
+      <tr><td>Main conference</td> <td>June 1-2, 2021</td></tr>
     </tbody>
   </table>
 </div>
