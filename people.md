@@ -8,7 +8,8 @@ layout: default
 
 ## Program Chairs
 
-* **Barbara Plank**, IT University of Copenhagen, Denmark
+[//]: # (**Barbara Plank**, IT University of Copenhagen, Denmark)
+* **Name 1**, University1, Country1
 * **Name 2**, University2, Country2
 * **Name 3**, University3, Country3
 * **Name 4**, University4, Country4
