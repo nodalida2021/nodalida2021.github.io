@@ -9,28 +9,29 @@ layout: default
 ## Program Chairs
 
 [//]: # (**Barbara Plank**, IT University of Copenhagen, Denmark)
-* **Name 1**, University1, Country1
-* **Name 2**, University2, Country2
-* **Name 3**, University3, Country3
-* **Name 4**, University4, Country4
-* **Name 5**, University5, Country5
+* **Mark Fishel,**, University of Tartu, Estonia
+* **Jón Guðnason**, Reykjavik University, Iceland
+* **Jurgita Kapočiūtė-Dzikienė**, Vytautas Magnus University, Lithuania
+* **Barbara Plank**, IT University of Copenhagen, Denmark
+* **Yves Scherrer,**, University of Helsinki, Finland
+* **Sara Stymne,**, Uppsala University, Sweden
 
 ## Publication Chair
 
-* **Some person**, University, Country
+* **Simon Dobnik**, University of Gothenburg, Sweden
 
 ## Social Media Chair
 
-* **Some person**, University, Country
+* **Johannes Bjerva**, University of Copenhagen, Denmark
 
 ## Workshop Chairs
 
-* **Workshop chair 1**, University, Country
-* **Workshope chair 2**, University, Country
+* **Hans Moen**, University of Turku, Finland
+* **Ildikó Pilán**, Norwegian Computing Center, Norway
 
 
 ## Local Organizers
 
 * **Hrafn Loftsson**, Reykjavik University (chair)
-* **Anton Karl Ingason**, University of Iceland (chair)
-* **Steinþór Steingrímsson**, Arni Magnusson Institute of Icelandic Studies (chair)
+* **Anton Karl Ingason**, University of Iceland (co-chair)
+* **Steinþór Steingrímsson**, Arni Magnusson Institute of Icelandic Studies (co-chair)
