@@ -9,12 +9,12 @@ layout: default
 ## Program Chairs
 
 [//]: # (**Barbara Plank**, IT University of Copenhagen, Denmark)
-* **Mark Fishel,**, University of Tartu, Estonia
+* **Mark Fishel**, University of Tartu, Estonia
 * **Jón Guðnason**, Reykjavik University, Iceland
 * **Jurgita Kapočiūtė-Dzikienė**, Vytautas Magnus University, Lithuania
 * **Barbara Plank**, IT University of Copenhagen, Denmark
-* **Yves Scherrer,**, University of Helsinki, Finland
-* **Sara Stymne,**, Uppsala University, Sweden
+* **Yves Scherrer**, University of Helsinki, Finland
+* **Sara Stymne**, Uppsala University, Sweden
 
 ## Publication Chair
 
