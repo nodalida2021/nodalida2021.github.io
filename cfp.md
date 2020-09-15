@@ -92,9 +92,8 @@ submission, reviewing, and preparation of proceedings.
 
 
 To inquire about the submission and reviewing process or the
-scientific programme of the conference, please email:
-nodalida2021-pc@googlegroups.com
+scientific programme of the conference, please email nodalida2021-pc@googlegroups.com
 
-For all practical inquiries, please email ‘nodalida2021-loc@googlegroups.com’.
+For all practical inquiries, please email nodalida2021-loc@googlegroups.com.
 
 Follow us on Twitter: [https://twitter.com/NoDaLiDa](https://twitter.com/NoDaLiDa)
