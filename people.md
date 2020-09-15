@@ -22,7 +22,7 @@ layout: default
 
 ## Social Media Chair
 
-* **Johannes Bjerva**, University of Copenhagen, Denmark
+* **Johannes Bjerva**, Aalborg University, Denmark
 
 ## Workshop Chairs
 
