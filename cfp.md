@@ -82,7 +82,7 @@ results with papers that will be (or have been) published elsewhere.
 
 NoDaLiDA follows the [ACL policy an anonymization and anonymity period](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
-The anonymity period for NoDaLiDa 2019 is from January 1, 2021.
+The anonymity period for NoDaLiDa 2021 is from January 1, 2021.
 
 ### SUBMISSION MANAGEMENT
 
