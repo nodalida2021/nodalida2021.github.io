@@ -8,7 +8,7 @@ layout: default
 May 31 - June 2, 2021
 Reykjavik, Iceland
 
-[http://www.nodalida2021.org](http://www.nodalida2021.org)
+[http://nodalida2021.org](http://nodalida2021.org)
 
 ## CALL FOR PAPERS
 
