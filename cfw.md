@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)
+## 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)
 
 May 31 - June 2, 2021
 Reykjavik, Iceland
