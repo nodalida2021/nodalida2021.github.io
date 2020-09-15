@@ -37,7 +37,7 @@ Organizers of accepted proposals will be responsible for publicizing and running
 
 ## SELECTION
 
-The assessment and selection of workshop proposals will be made by the NoDaLiDa 2021 Workshop Chairs.
+The assessment and selection of workshop proposals will be made by the NoDaLiDa 2021 [Workshop Chairs] (http://nodalida2021.org/people.html).
 
 To inquire about the workshop submission process or any practical aspect about the organization of workshops, please email nodalida2021-workshops@googlegroups.com.
 
