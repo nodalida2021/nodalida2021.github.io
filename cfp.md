@@ -15,14 +15,6 @@ Reykjavik, Iceland
 The Northern European Association for Language Technology (NEALT) invites submissions to its bi-annual conference on human language and
 speech technologies. NoDaLiDa 2021 will be held between Monday, May 31 and Wednesday, June 2, 2021, on the campus of Reykjavik University, Iceland. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
 
-### IMPORTANT DATES
-
-* Friday, June 7, 2019 (**extended**): Submission of Papers 
-* Friday, July 12, 2019: Notification of Acceptance
-* Friday, August 9, 2019: Camera-Ready Manuscripts
-* Monday, September 30, 2019: Pre-Conference Workshops
-* Tuesday and Wednesday, October 1-2, 2019: Main Conference
-
 
 ### SUBMISSIONS  
 
@@ -49,6 +41,7 @@ Papers accepted for presentation at the conference will be included in
 the NoDaLiDa 2021 proceedings, which are published as part of the NEALT
 Proceedings Series by Linköping University Electronic Press and in the
 ACL Anthology.
+
 
 ### SUBMISSION FORMATS
 
@@ -96,8 +89,10 @@ submission, reviewing, and preparation of proceedings.
 [https://easychair.org/conferences/?conf=nodalida2021](https://easychair.org/conferences/?conf=nodalida2021)
 
 
-For inquiries, send an email to:
+To inquire about the submission and reviewing process or the
+scientific programme of the conference, please email:
+nodalida2021-pc@googlegroups.com
 
-nodalida2021-org@googlegroups.com
+For all practical inquiries, please email ‘nodalida2021-loc@googlegroups.com’.
 
 Follow us on Twitter: [https://twitter.com/NoDaLiDa](https://twitter.com/NoDaLiDa)
