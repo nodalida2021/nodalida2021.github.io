@@ -42,6 +42,14 @@ the NoDaLiDa 2021 proceedings, which are published as part of the NEALT
 Proceedings Series by Linköping University Electronic Press and in the
 ACL Anthology.
 
+### SCHEDULE
+
+* Monday, February 1, 2021: Submission of Papers 
+* Monday, March 15, 2021: Notification of Acceptance
+* Monday, April 12, 2021: Camera-Ready Manuscripts
+* Monday, May 31, 2021: Pre-Conference Workshops
+* Tuesday and Wednesday, June 1-2, 2021: Main Conference
+
 
 ### SUBMISSION FORMATS
 
