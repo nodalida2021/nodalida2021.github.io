@@ -6,6 +6,8 @@ layout: default
 
 **Imperial College London**
 
+<block class="image"><img width="300px" src="images/Lucia_Specia.jpg" alt="" /></block>
+
 <!---
 <block class="image"><img width="200px" src="images/marie.jpg" alt="" /></block>
 <block class="image"><img width="200px" src="http://grzegorz.chrupala.me/me.jpg" alt="" /></block>
