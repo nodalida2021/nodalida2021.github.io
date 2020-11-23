@@ -44,8 +44,8 @@ ACL Anthology.
 
 ### SCHEDULE
 
-* Monday, February 1, 2021: Submission of Papers 
-* Monday, March 15, 2021: Notification of Acceptance
+* Monday, February 8, 2021: Submission of Papers 
+* Monday, March 22, 2021: Notification of Acceptance
 * Monday, April 12, 2021: Camera-Ready Manuscripts
 * Monday, May 31, 2021: Pre-Conference Workshops
 * Tuesday and Wednesday, June 1-2, 2021: Main Conference
