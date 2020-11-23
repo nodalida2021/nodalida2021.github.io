@@ -17,8 +17,8 @@ The 23<sup>rd</sup> Nordic Conference on Computational Linguistics (NoDaLiDa 202
 <div class="table-wrapper">
   <table>
     <tbody>
-      <tr><td>Submission - main conference</td> <td>February 1, 2021</td></tr>
-      <tr><td>Notification - main conference</td> <td>March 15, 2021</td></tr>
+      <tr><td>Submission - main conference</td> <td>February 8, 2021</td></tr>
+      <tr><td>Notification - main conference</td> <td>March 22, 2021</td></tr>
       <tr><td>Camera-Ready Manuscripts</td> <td>April 12, 2021</td></tr>
       <tr><td>Pre-Conference Workshops</td> <td>May 31, 2021</td></tr>
       <tr><td>Main conference</td> <td>June 1-2, 2021</td></tr>
