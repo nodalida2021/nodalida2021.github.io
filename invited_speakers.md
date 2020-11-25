@@ -15,7 +15,7 @@ Lucia Specia is Professor of Natural Language Processing at Imperial College Lon
 
 ## <a name="adina" id="adina"></a>Adina Williams: Title to be announced.
 
-**Imperial College London**
+**Facebook AI Research**
 
 <block class="image"><img width="300px" src="images/AdinaHeadshot.jpg" alt="" /></block>
 
