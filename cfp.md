@@ -15,7 +15,7 @@ Reykjavik, Iceland
 The Northern European Association for Language Technology (NEALT) invites submissions to its bi-annual conference on human language and
 speech technologies. NoDaLiDa 2021 will be held between Monday, May 31 and Wednesday, June 2, 2021, on the campus of Reykjavik University, Iceland. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
 
-## INVITED SPEAKERS
+### INVITED SPEAKERS
 
 * Lucia Specia, Imperial College London
 * Adina Williams, Facebook AI Research NYC
