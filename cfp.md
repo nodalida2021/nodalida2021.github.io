@@ -15,6 +15,10 @@ Reykjavik, Iceland
 The Northern European Association for Language Technology (NEALT) invites submissions to its bi-annual conference on human language and
 speech technologies. NoDaLiDa 2021 will be held between Monday, May 31 and Wednesday, June 2, 2021, on the campus of Reykjavik University, Iceland. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
 
+## INVITED SPEAKERS
+
+* Lucia Specia, Imperial College London
+* Adina Williams, Facebook AI Research NYC
 
 ### SUBMISSIONS  
 
@@ -76,14 +80,14 @@ and must be withdrawn from the other venues if accepted to NoDALiDa 2021. Author
 
 NoDaLiDA follows the [ACL policy an anonymization and anonymity period](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
-The anonymity period for NoDaLiDa 2021 is from January 1, 2021.
+The anonymity period for NoDaLiDa 2021 is from January 8, 2021.
 
 ### SUBMISSION MANAGEMENT
 
 Submissions to the conference must be uploaded electronically, obeying 
 the above requirements and no later than (end of day, [anywhere](https://www.timeanddate.com/time/zones/aoe) in the world):
 
-**Monday, February 1, 2021**
+**Monday, February 8, 2021**
 
 NoDaLiDa 2021 utilizes the EasyChair conference management system for 
 submission, reviewing, and preparation of proceedings. 
