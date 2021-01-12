@@ -5,13 +5,14 @@ layout: default
 ## 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)
 
 May 31 - June 2, 2021
-Reykjavik, Iceland
+<!--Reykjavik, Iceland-->
 
 [http://nodalida2021.org](http://nodalida2021.org)
 
 ## CALL FOR WORKSHOP PROPOSALS
 
-The Northern European Association for Language Technology (NEALT) invites proposals for workshops at its bi-annual conference on human language and speech technologies. NoDaLiDa 2021 will be held between May 31 and June 02, 2021 on the campus of the Reykjavik University in Iceland. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
+The Northern European Association for Language Technology (NEALT) invites proposals for workshops at its bi-annual conference on human language and speech technologies. NoDaLiDa 2021 will be held between May 31 and June 02, 2021. While we were planning to hold the conference in Reykjavik (Iceland), due to the current COVID situation the conference will be held entirely online.
+<!--on the campus of the Reykjavik University in Iceland. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.-->
 
 NoDaLiDa addresses all aspects of natural language processing, speech recognition and synthesis and computational linguistics, including work in closely-related neighboring disciplines (such as, for example, machine learning, linguistics or psychology) that is sufficiently formalized or applied to bear relevance to speech and language technologies.
 
