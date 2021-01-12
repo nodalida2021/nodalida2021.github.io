@@ -2,7 +2,8 @@
 layout: default
 ---
 
-The 23<sup>rd</sup> Nordic Conference on Computational Linguistics (NoDaLiDa 2021) will be held in Reykjavik, Iceland. The conference is a two-day event with one additional day of workshops. The conference takes place at <a href="http://www.ru.is">Reykjavik University</a> and is hosted by <a href="http://www.ru.is">Almannarómur</a>. We are closely monitoring the ongoing pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
+Welcome to the 23<sup>rd</sup> Nordic Conference on Computational Linguistics (NoDaLiDa 2021), held from May 31<sup>st</sup> to June 2<sup>nd</sup>, 2021. The conference is a two-day event with one additional day of workshops. <!--The conference takes place at <a href="http://www.ru.is">Reykjavik University</a> and is hosted by <a href="http://www.ru.is">Almannarómur</a>. We are closely monitoring the ongoing pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.-->
+While we were planning to hold the conference in Reykjavik (Iceland), due to the current COVID situation the conference will be held entirely online.
 
 <!-- Box 
 <div class="box" markdown="1">
