@@ -42,6 +42,6 @@ The assessment and selection of workshop proposals will be made by the NoDaLiDa 
 
 To inquire about the workshop submission process or any practical aspect about the organization of workshops, please email nodalida2021-workshops@googlegroups.com.
 
-For any question about the conference in general, please email nodalida2019-pc@googlegroups.com.
+For any question about the conference in general, please email nodalida2021-pc@googlegroups.com.
 
 Follow us on Twitter: https://twitter.com/NoDaLiDa
