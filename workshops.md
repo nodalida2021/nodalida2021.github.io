@@ -15,12 +15,12 @@ Organizers: Elke Teich, Cristina España y Bonet, Josef van Genabith, Yuri Bizzo
 
 Organizers: David Alfter, Elena Volodina, Johannes Graën, Ildikó Pilán
 
-* May 31, 2021, full day workshopp
+* May 31, 2021, full day workshop
 * [Website](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2021)
 
 ## Sustainable language representations for a changing world
 
 Organizers: Jussi Karlgren, Peter Ljunglöf
 
-* May 31, 2021, full day workshoppp
+* May 31, 2021, full day workshop
 <!--* [Website](http://wp.lancs.ac.uk/cfie/fnp2019/)-->
