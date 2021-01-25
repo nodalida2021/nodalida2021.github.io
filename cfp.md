@@ -63,11 +63,11 @@ available for LaTeX (preferred) and MS Word and can be retrieved from the follow
 
 [http://nodalida2021.org/authorkit.zip](http://nodalida2021.org/authorkit.zip)
 
-Submissions must be anonymous, i.e. not reveal author(s) on the title
-page or through self-references. Papers must be submitted digitally,
-in PDF, and uploaded through the on-line conference system. Paper
-submissions that violate either of these requirements will be returned
-without review.
+Submissions of regular (and short) papers must be anonymous, i.e. not reveal author(s) on the title
+page or through self-references. The anonymization of submissions for demo papers is optional. If authors choose to remain anonymous, it is their responsibility to take every measure to conceal potentially identifying information.
+
+Papers must be submitted digitally, in PDF, and uploaded through the on-line conference system. Paper
+submissions that violate either of these requirements will be returned without review.
 
 The page limits for submissions are: up to eight pages for regular papers, 
 and up to four  pages for short papers and demo papers. 
