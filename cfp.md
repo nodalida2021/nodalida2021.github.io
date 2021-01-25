@@ -40,7 +40,7 @@ We invite paper submissions of three types:
 
 We particularly encourage the submission of papers on completed or 
 on-going work, where the first author is a Master or PhD student. This should
-be indicated at submission time.
+be indicated at submission time by adding the keyword STUDENTS.
 
 Papers accepted for presentation at the conference will be included in
 the NoDaLiDa 2021 proceedings, which are published as part of the NEALT
