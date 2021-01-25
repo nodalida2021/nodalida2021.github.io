@@ -6,10 +6,10 @@ NoDaLiDa 2021 will host the following workshops:
 
 ## Workshop on Modelling Translation: Translatology in the Digital Age
 
-Organizers: Elke Teich, Cristina España y Bonet, Josef van Genabith, Yuri Bizzoni
+Organizers: Yuri Bizzoni, Cristina España y Bonet, Josef van Genabith, Elke Teich 
 
 * May 31, 2021, full day workshop
-<!--* [Website](http://wiki.nlpl.eu/index.php/Community/workshop)-->
+< [Website](http://www.sfb1102.uni-saarland.de/?p=6582)>
 
 ## NLP for Computer-Assisted Language Learning (NLP4CALL 2021)
 
