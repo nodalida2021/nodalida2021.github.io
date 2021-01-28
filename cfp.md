@@ -38,6 +38,10 @@ We invite paper submissions of three types:
 * demonstration papers on software or resource demonstrations, e.g. of
   systems, interfaces, infrastructures, data collections, or annotations.
 
+Appendices (if part of a paper) should come after the references, and do not count towards the page limit.
+Appendices are material that can be read, and include lemmas, formulas, proofs, 
+and tables that are not critical to the reading and understanding of the paper. 
+
 We particularly encourage the submission of papers on completed or 
 on-going work, where the first author is a Master or PhD student. This should
 be indicated at submission time by adding the keyword STUDENTS.
