@@ -18,7 +18,7 @@ While we were planning to hold the conference in Reykjavik (Iceland), due to the
 <div class="table-wrapper">
   <table>
     <tbody>
-      <tr><td>Submission - main conference</td> <td>February 8, 2021</td></tr>
+      <tr><td>Submission - main conference</td> <td>February 8, 2021, midnight (anywhere on earth)</td></tr>
       <tr><td>Notification - main conference</td> <td>March 22, 2021</td></tr>
       <tr><td>Camera-Ready Manuscripts</td> <td>April 12, 2021</td></tr>
       <tr><td>Pre-Conference Workshops</td> <td>May 31, 2021</td></tr>
