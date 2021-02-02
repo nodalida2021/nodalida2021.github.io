@@ -23,4 +23,4 @@ Organizers: David Alfter, Elena Volodina, Johannes Graën, Ildikó Pilán
 Organizers: Jussi Karlgren, Peter Ljunglöf
 
 * May 31, 2021, full day workshop
-<!--* [Website](http://wp.lancs.ac.uk/cfie/fnp2019/)-->
+<* [Website](https://spraakbanken.gu.se/en/news-and-events/conferences-and-workshops/sustainable-language-representations)
