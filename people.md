@@ -29,9 +29,13 @@ layout: default
 * **Hans Moen**, University of Turku, Finland
 * **Ildikó Pilán**, Norwegian Computing Center, Norway
 
+To inquire about the submission and reviewing process or the
+scientific programme of the conference, please email <nodalida2021-pc@googlegroups.com>
 
 ## Local Organizers
 
 * **Hrafn Loftsson**, Reykjavik University (chair)
 * **Anton Karl Ingason**, University of Iceland (co-chair)
 * **Steinþór Steingrímsson**, Arni Magnusson Institute of Icelandic Studies (co-chair)
+
+For all practical inquiries, please email <nodalida2021-loc@googlegroups.com>
