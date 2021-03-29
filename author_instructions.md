@@ -62,3 +62,7 @@ The anonymity period for NoDaLiDa 2021 is from January 8, 2021.
 
 NoDaLiDa 2021 utilizes the [EasyChair conference management system](https://easychair.org/conferences/?conf=nodalida2021) for
 submission, reviewing, and preparation of proceedings.
+
+### REGISTRATION
+
+See the [registration information page](https://nodalida2021.github.io/registration.html).
