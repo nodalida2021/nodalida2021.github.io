@@ -5,7 +5,7 @@ layout: default
 ## Accepted papers
 
 | ID  | Authors | Title | Type 
-| ---- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------ 
+| --- | :-- | :-- | --- | 
 2 |	Mark Anderson and Carlos Gómez-Rodríguez | What Taggers Fail to Learn, Parsers Need the Most | Short 
 6	| Mika Hämäläinen, Niko Partanen, Jack Rueter and Khalid Alnajjar |	Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered | Long 
 7	| Yuri Bizzoni and Ekaterina Lapshinova-Koltunski	| Measuring Translationese across Levels of Expertise: Are Professionals more Surprising than Students?	|	Long
@@ -25,15 +25,15 @@ layout: default
 32 |	Timo Johner, Abhik Jana and Chris Biemann	| Error Analysis of using BART for Multi-Document Summarization: A Study for English and German Language | Short
 35 |	Magnus Sahlgren, Fredrik Carlsson, Fredrik Olsson and Love Börjeson	| It's Basically the Same Language Anyway: the Case for a Nordic Language Model	| Short
 36 |	Antonia Karamolegkou and Sara Stymne	| Investigation of Transfer Languages for Parsing Latin: Italic Branch vs. Hellenic Branch | Short
-38 |	Leon Strømberg-Derczynski, Manuel Ciosici, Rebekah Baglini, Morten H. Christiansen, Jacob Aarup Dalsgaard, Riccardo Fusaroli, Peter Juel Henrichsen, Rasmus Hvingelby, Andreas Kirkedal, Alex Speed Kjeldsen, Claus Ladefoged, Finn Årup Nielsen, Jens Madsen, Malte Lau Petersen, Jonathan Hvithamar Rystrøm and Daniel Varab |	The Danish Gigaword Corpus	| Short
+38 |	Leon Strømberg-Derczynski, Manuel Ciosici, Rebekah Baglini, <br /> Morten H. Christiansen, Jacob Aarup Dalsgaard, Riccardo Fusaroli, <br /> Peter Juel Henrichsen, Rasmus Hvingelby, Andreas Kirkedal, Alex Speed Kjeldsen, Claus Ladefoged, Finn Årup Nielsen, Jens Madsen, Malte Lau Petersen, Jonathan Hvithamar Rystrøm and Daniel Varab |	The Danish Gigaword Corpus	| Short
 40 |	Steinþór Steingrímsson, Hrafn Loftsson and Andy Way |	CombAlign: a Tool for Obtaining High-Quality Word Alignments | Long
 41 |	Sampo Pyysalo, Jenna Kanerva, Antti Virtanen and Filip Ginter	| WikiBERT Models: Deep Transfer Learning for Many Languages | Long
-42 |	Per E Kummervold, Javier De la Rosa, Freddy Wetjen and Svein Arne Brygfjeld |	Operationalizing a National Digital Library: The Case for a Norwegian Transformer Model	| Long
+42 |	Per E Kummervold, Javier De la Rosa, Freddy Wetjen and <br /> Svein Arne Brygfjeld |	Operationalizing a National Digital Library: The Case for a Norwegian Transformer Model	| Long
 43 |	Jarkko Lagus and Arto Klami	| Learning to Lemmatize in the Word Representation Space | Long
 44 |	Yvonne Adesam and Aleksandrs Berdicevskis	| Part-of-speech tagging of Swedish texts in the neural era	| Long
 45 |	Jeppe Nørregaard and Leon Derczynski	| DanFEVER: claim verification dataset for Danish	| Short
 47 |	Simon Hengchen and Nina Tahmasebi	| SuperSim: a test set for word similarity and relatedness in Swedish	| Long
-48 |	Jenna Kanerva, Filip Ginter, Li-Hsin Chang, Iiro Rastas, Valtteri Skantsi, Hanna-Mari Kupari, Jemina Kilpeläinen, Jenna Saarni, Maija Sevón and Otto Tarkka |	Finnish Paraphrase Corpus	| Long
+48 |	Jenna Kanerva, Filip Ginter, Li-Hsin Chang, Iiro Rastas, Valtteri Skantsi, Hanna-Mari Kupari, Jemina Kilpeläinen, Jenna Saarni, <br /> Maija Sevón and Otto Tarkka |	Finnish Paraphrase Corpus	| Long
 49 |	Eetu Sjöblom, Mathias Creutz and Teemu Vahtola | Grammatical Error Generation Based on Translated Fragments	| Short
 50 |	Helga Svala Sigurðardóttir, Anna Björk Nikulásdóttir and Jón Guðnason |	Creating Data in Icelandic for Text Normalization	| Short
 
