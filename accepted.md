@@ -36,6 +36,28 @@ layout: default
 48 |	Jenna Kanerva, Filip Ginter, Li-Hsin Chang, Iiro Rastas, Valtteri Skantsi, Hanna-Mari Kupari, Jemina Kilpeläinen, Jenna Saarni, <br /> Maija Sevón and Otto Tarkka |	Finnish Paraphrase Corpus	| Long
 49 |	Eetu Sjöblom, Mathias Creutz and Teemu Vahtola | Grammatical Error Generation Based on Translated Fragments	| Short
 50 |	Helga Svala Sigurðardóttir, Anna Björk Nikulásdóttir and Jón Guðnason |	Creating Data in Icelandic for Text Normalization	| Short
-
+52 |	Hjalti Daníelsson, Jón Hilmar Jónsson, Þórður Arnar Árnason, Alec Shaw, Einar Freyr Sigurðsson and Steinþór Steingrímsson	| The Icelandic Word Web: A language technology-focused redesign of a lexicosemantic database	| Short
+53 |	Manfred Klenner and Anne Göhring | Getting Hold of Villains and other Rogues | Short
+55 |	Lovisa Hagström and Richard Johansson	| Knowledge Distillation for Swedish NER models: A Search for Performance and Efficiency | Long
+64 |	Atli Sigurgeirsson, Þorsteinn Gunnarsson, Gunnar Örnólfsson, Eydís Magnúsdóttir, Ragnheiður Þórhallsdóttir, Stefán Jónsson and Jón Guðnason	| Talrómur: A large Icelandic TTS corpus | Short
+67 |	Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas and Magnus Sahlgren	| Decentralized Word2Vec Using Gossip Learning | Short
+69 |	Sidsel Boldsen and Fredrik Wahlberg	| Survey and reproduction of computational approaches to dating of historical texts	| Long
+70 |	Juho Leinonen, Sami Virpioja and Mikko Kurimo	| Grapheme-Based Cross-Language Forced Alignment: Results with Nordic Languages	| Short
+71 |	Hasan Tanvir, Claudia Kittask, Sandra Eiche and Kairit Sirts | EstBERT: A Pretrained Language-Specific BERT for Estonian	| Long
+72 |	Petter Mæhlum, Jeremy Barnes, Robin Kurtz, Lilja Øvrelid and Erik Velldal	| Negation in Norwegian: an annotated dataset	| Long
+74 |	Vinit Ravishankar, Andrey Kutuzov, Lilja Øvrelid and Erik Velldal	Multilingual | ELMo and the Effects of Corpus Sampling	| Short
+76 |	Jeremy Barnes, Petter Mæhlum and Samia Touileb	| NorDial: A Preliminary Corpus of Written Norwegian Dialect Use	| Short
+77 |	Hinrik Hafsteinsson and Anton Karl Ingason	| Towards cross-lingual application of language-specific PoS tagging schemes	| Short
+78 |	Andrey Kutuzov, Jeremy Barnes, Erik Velldal, Lilja Øvrelid and Stephan Oepen	| Large-Scale Contextualised Language Modelling for Norwegian	| Long
+79 |	Saga Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma and Dana Dannélls	| The Swedish Winogender Dataset | Short
+80 |  Tim Isbister, Fredrik Carlsson and Magnus Sahlgren	| Should we Stop Training More Monolingual Models, and Simply Use Machine Translation Instead?	| Short
+81 |	Leo Leppänen and Hannu Toivonen	| A Baseline Document Planning Method for Automated Journalism	| Long
+82 |	Samuel Rönnqvist, Valtteri Skantsi, Miika Oinonen and Veronika Laippala	| Multilingual and Zero-Shot is Closing in on Monolingual Web Register Classification  | Long
+83	| Mikko Aulamo, Sami Virpioja, Yves Scherrer and Jörg Tiedemann	| Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation	| Short
+85	| Maali Tars, Andre Tättar and Mark Fišel	| Extremely low-resource machine translation for closely related languages	| Long
+88	| Prajit Dhar and Arianna Bisazza	| Understanding Cross-Lingual Syntactic Transfer in Multilingual Recurrent Neural Networks	| Long
+89	| Arild Brandrud Næss, Joakim Olsen and Pierre Lison	| Assessing the Quality of Human-Generated Summaries with Weakly Supervised Learning	| Long
+91	| Jouni Luoma, Li-Hsin Chang, Filip Ginter and Sampo Pyysalo	| Fine-grained Named Entity Annotation for Finnish	| Long
+92	| Elena Volodina, Yousuf Ali Mohammed and Therese Lindström Tiedemann	| CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish	| Long
 
 
