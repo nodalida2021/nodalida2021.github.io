@@ -5,7 +5,7 @@ layout: default
 ## Accepted papers
 
 | ID  | Authors | Title | Type 
-| ------------- | ------------- | ------------- | ------------- 
+| ---- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------ 
 2 |	Mark Anderson and Carlos Gómez-Rodríguez | What Taggers Fail to Learn, Parsers Need the Most | Short 
 6	| Mika Hämäläinen, Niko Partanen, Jack Rueter and Khalid Alnajjar |	Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered | Long 
 7	| Yuri Bizzoni and Ekaterina Lapshinova-Koltunski	| Measuring Translationese across Levels of Expertise: Are Professionals more Surprising than Students?	|	Long
