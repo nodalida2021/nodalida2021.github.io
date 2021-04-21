@@ -12,7 +12,7 @@ layout: default
 </block>
 
 <p>
-  
+<br>
 <block style="margin:15px" class="4u 12u$(small)">
 <span class="image"><a href="https://mideind.is/"><img src="images/Mideind_logo.svg" width="300px" alt="Miðeind Logo" /></a></span>
 </block>
