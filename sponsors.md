@@ -13,6 +13,13 @@ layout: default
 
 <p>
 <br>
+
+<block style="margin:15px" class="4u 12u$(small)">
+<span class="image"><a href="https://tilde.com"><img src="images/tilde_logo_smaller.png" max-width="300px" alt="Tilde logo"/></a></span>
+</block>
+
+<p>
+<br>
 <block style="margin:15px" class="4u 12u$(small)">
 <span class="image"><a href="https://mideind.is/"><img src="images/Mideind_logo.svg" width="300px" alt="Miðeind Logo" /></a></span>
 </block>
