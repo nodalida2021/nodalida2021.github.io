@@ -66,3 +66,9 @@ submission, reviewing, and preparation of proceedings.
 ### REGISTRATION
 
 See the [registration information page](https://nodalida2021.github.io/registration.html).
+
+### ONLINE PRESENTATIONS
+
+See the [online venue page](https://nodalida2021.github.io/online.html).
+
+
