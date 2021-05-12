@@ -1,29 +1,12 @@
 # Program
 
-* [Program Outline](https://nodalida2019.org/program.html)
-* [Detailed Program](#details)
+## Monday May 31, 2021
 
-# <a name="details"></a>Detailed Program
-
-Changes:
-- Semantics session: order of the first two talks has switched (23/09)
-
-## Monday September 30, 2019 Workshops
-
-| Time  | Session | Room |
-| ------------- | ------------- | ------------- |
-| 08:00-09:00  | Registration | |
-| | **Workshops** | |
-| 09:00-17:00  | [NLPL Workshop on Deep Learning for Natural Language Processing](http://wiki.nlpl.eu/index.php/Community/workshop) | PUB2 |
-| 09:00-17:30  | [NLP for Computer-Assisted Language Learning (NLP4CALL)](https://spraakbanken.gu.se/eng/research-icall/8th-nlp4call) | PUB5 |
-| 09:00-15:30  | [Constraint Grammar - Methods, Tools and Applications](https://visl.sdu.dk/nodalida2019.html) | PUB 209 |
-| 14:00-17:00  | [Workshop on NLP and Pseudonymisation](https://sweclarin.se/swe/evenemang/nlp4pseudo) | PUB4 |
-| 09:00-15:30  | [Financial Narrative Processing Workshop (FNP 2019)](http://wp.lancs.ac.uk/cfie/fnp2019/) | PUB 126 |
-| 10:00-10:30  | Coffee break | |
-| 12:00-14:00  | Lunch break | Holiday Club Caribia |
-| 15:00-15:30  | Coffee break | |
-| 19:00 | [Welcome Reception](https://nodalida2019.org/social.html) in the Turku City Hall | |
-
+| Time  | Workshop |
+| ------------- | ------------- |
+| 09:00-17:00  | [Workshop on Modelling Translation: Translatology in the Digital Age](http://www.sfb1102.uni-saarland.de/?p=6582) |
+| 09:00-17:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL 2021)](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2021) |
+| 09:00-17:00  | [Sustainable language representations for a changing world](https://spraakbanken.gu.se/en/news-and-events/conferences-and-workshops/sustainable-language-representations) |
 
 ## Tuesday October 1, 2019
 
