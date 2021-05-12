@@ -11,4 +11,4 @@ All participants, however, need to register by using this [online form](https://
 **Deadlines**:
 
 * April 12, 2021: At least one author of each accepted (main conference) paper.
-* May 17, 2021:  Other participants, including at least one author of each accepted workshop paper.
+* May 21, 2021:  Other participants, including at least one author of each accepted workshop paper.
