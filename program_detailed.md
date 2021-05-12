@@ -1,5 +1,7 @@
 # Program
 
+Information about how to accesss individual workshops and sessions will be presented in [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
+
 ## Monday May 31, 2021
 
 | Time  | Workshop |
@@ -8,24 +10,24 @@
 | 09:00-17:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL 2021)](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2021) |
 | 09:00-17:00  | [Sustainable language representations for a changing world](https://spraakbanken.gu.se/en/news-and-events/conferences-and-workshops/sustainable-language-representations) |
 
-## Tuesday October 1, 2019
+## Tuesday June 1, 2021
 
-| Time  | Session | Room |
-| ------------- | ------------- | ------------- |
-| 09:00-09:15  | Opening | PUB1 |
-| **09:15-10:05**  | **[Keynote](https://nodalida2019.org/invited_speakers.html#marie) by Marie-Catherine de Marneffe: Do you know that there’s still a chance? Identifying speaker commitment for natural language understanding**<br>Chair: Joakim Nivre | PUB1 |
+| Time  | Session |
+| ------------- | ------------- |
+| 09:00-09:15  | Opening |
+| **09:15-10:05**  | **Keynote: Lucia Specia** 
 | 10:05-10:35  | Coffee break | |
-| **10:35-12:15**  | **Parallel session A: Multilinguality and Machine Translation**<br>Chair: Jörg Tiedemann | PUB1 |
-| 10:35-11:00  | Comparison between NMT and PBSMT Performance for Translating Noisy User-Generated Content.<br>José Carlos Rosales Nuñez, Djamé Seddah and Guillaume Wisniewski. | |
-| 11:00-11:25  | Bootstrapping UD treebanks for Delexicalized Parsing.<br>Prasanth Kolachina and Aarne Ranta. | |
-| 11:25-11:50  | Lexical Resources for Low-Resource PoS Tagging in Neural Times.<br>Barbara Plank and Sigrid Klerke. | |
-| 11:50-12:15  | Toward Multilingual Identification of Online Registers.<br>Veronika Laippala, Roosa Kyllönen, Jesse Egbert, Douglas Biber and Sampo Pyysalo. | |
-| **10:35-12:15**  | **Parallel session B: Embeddings, Biases and Language Change**<br>Chair: Richard Johansson | PUB3 |
-| 10:35-11:00  | Gender Bias in Pretrained Swedish Embeddings.<br>Magnus Sahlgren and Fredrik Olsson. | |
-| 11:00-11:25  | A larger-scale evaluation resource of terms and their shift direction for diachronic lexical semantics.<br>Astrid van Aggelen, Antske Fokkens, Laura Hollink and Jacco van Ossenbruggen. | |
-| 11:25-11:50  | Some steps towards the generation of diachronic WordNets.<br>Yuri Bizzoni, Marius Mosbach, Deitrich Klakow and Stefania Degaetano-Ortlieb. | |
-| 11:50-12:15  | An evaluation of Czech word embeddings.<br>Karolína Hořeňovská. | |
-| 12:15-13:45  | Lunch break | Holiday Club Caribia |
+| **10:35-12:15**  | **Parallel session A: Large-scale Language Models** |
+| 10:35-11:00  | WikiBERT Models: Deep Transfer Learning for Many Languages.<br>Sampo Pyysalo, Jenna Kanerva, Antti Virtanen and Filip Ginter. | 
+| 11:00-11:25  | EstBERT: A Pretrained Language-Specific BERT for Estonian.<br>Hasan Tanvir, Claudia Kittask, Sandra Eiche and Kairit Sirts. | 
+| 11:25-11:50  | Operationalizing a National Digital Library: The Case for a Norwegian Transformer Model.<br>Per E Kummervold, Javier De la Rosa, Freddy Wetjen and Svein Arne Brygfjeld. | 
+| 11:50-12:15  | Large-Scale Contextualised Language Modelling for Norwegian.<br>Andrey Kutuzov, Jeremy Barnes, Erik Velldal, Lilja Øvrelid and Stephan Oepen. |
+| **10:35-12:15**  | **Parallel session B: MT & Multilinguality**|
+| 10:35-11:00  | Extremely low-resource machine translation for closely related languages.<br>Maali Tars, Andre Tättar and Mark Fišel. |
+| 11:00-11:25  | Measuring Translationese across Levels of Expertise: Are Professionals more Surprising than Students?.<br>AYuri Bizzoni and Ekaterina Lapshinova-Koltunski. |
+| 11:25-11:50  | CombAlign: a Tool for Obtaining High-Quality Word Alignments.<br>Steinþór Steingrímsson, Hrafn Loftsson and Andy Way. |
+| 11:50-12:15  | Understanding Cross-Lingual Syntactic Transfer in Multilingual Recurrent Neural Networks.<br>Prajit Dhar and Arianna Bisazza. |
+| 12:15-13:45  | Lunch break |
 | **13:45-15:00**  | **Parallel session A: Semantics**<br>Chair: Marianna Apidianaki | PUB1 |
 | 13:45-14:10 | Comparing linear and neural models for competitive MWE identification.<br>Hazem Al Saied, Marie Candito and Mathieu Constant. | |
 | 14:10-14:35 | Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions.<br>Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. | |
