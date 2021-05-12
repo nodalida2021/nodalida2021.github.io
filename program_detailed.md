@@ -46,7 +46,8 @@ Information about how to access individual workshops and sessions will be presen
 |   | Exploring the Importance of Source Text in Automatic Post-Editing for Context-Aware Machine Translation.<br>Chaojun Wang, Christian Hardmeier and Rico Sennrich. |
 |   | Chinese Character Decomposition for Neural MT with Multi-Word Expressions.<br>Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. |
 |   | Grapheme-Based Cross-Language Forced Alignment: Results with Uralic Languages.<br>Juho Leinonen, Sami Virpioja and Mikko Kurimo. |
-|   | Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation.<br>Tobias Norlund and Agnes Stenbom. |
+|   | Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation.<br>Mikko Aulamo, Sami Virpioja, Yves Scherrer and Jörg Tiedemann. |
+|   | Building a Swedish Open-Domain Conversational Language Model.<br>Tobias Norlund and Agnes Stenbom. |
 |   | It's Basically the Same Language Anyway: the Case for a Nordic Language Model.<br>Magnus Sahlgren, Fredrik Carlsson, Fredrik Olsson and Love Börjeson.|
 |   | Decentralized Word2Vec Using Gossip Learning.<br>Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas and Magnus Sahlgren. |
 |   | Multilingual ELMo and the Effects of Corpus Sampling.<br>Vinit Ravishankar, Andrey Kutuzov, Lilja Øvrelid and Erik Velldal. |
