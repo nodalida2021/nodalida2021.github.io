@@ -1,6 +1,6 @@
 # Program
 
-Information about how to accesss individual workshops and sessions will be presented in [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
+Information about how to access individual workshops and sessions will be presented in [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
 
 ## Monday May 31, 2021
 
@@ -80,15 +80,17 @@ Information about how to accesss individual workshops and sessions will be prese
 | 13:00-14:00  | NEALT business meeting |
 | **14:00-14:50**  | **Keynote: Adina Williams** 
 | 14:50-15:05  | Coffee break |
-| **15:15-16:30** | **Poster session** |
-|   | What Taggers Fail to Learn, Parsers Need the Most.<br>Mark Anderson and Carlos Gómez-Rodríguez. |
-|   | Investigation of Transfer Languages for Parsing Latin: Italic Branch vs. Hellenic Branch.<br>Antonia Karamolegkou and Sara Stymne. | 
-|   | Towards cross-lingual application of language-specific PoS tagging schemes. <br>Hinrik Hafsteinsson and Anton Karl Ingason.| 
-|   | Exploring the Importance of Source Text in Automatic Post-Editing for Context-Aware Machine Translation.<br>Chaojun Wang, Christian Hardmeier and Rico Sennrich. |
-|   | Chinese Character Decomposition for Neural MT with Multi-Word Expressions.<br>Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. |
-|   | Grapheme-Based Cross-Language Forced Alignment: Results with Uralic Languages.<br>Juho Leinonen, Sami Virpioja and Mikko Kurimo. |
-|   | Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation.<br>Tobias Norlund and Agnes Stenbom. |
-|   | It's Basically the Same Language Anyway: the Case for a Nordic Language Model.<br>Magnus Sahlgren, Fredrik Carlsson, Fredrik Olsson and Love Börjeson.|
-|   | Decentralized Word2Vec Using Gossip Learning.<br>Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas and Magnus Sahlgren. |
-|   | Multilingual ELMo and the Effects of Corpus Sampling.<br>Vinit Ravishankar, Andrey Kutuzov, Lilja Øvrelid and Erik Velldal. |
-|   | Should we Stop Training More Monolingual Models, and Simply Use Machine Translation Instead?<br>Tim Isbister, Fredrik Carlsson and Magnus Sahlgren. |
+| **15:15-16:30** | **Poster/demo session** |
+|   | DaNLP: An open-source toolkit for Danish Natural Language Processing.<br>Amalie Brogaard Pauli, Maria Barrett, Ophélie Lacroix and Rasmus Hvingelby. |
+|   | HB Deid - HB De-identification tool demonstrator.<br>Hanna Berg and Hercules Dalianis. | 
+|   | Error Analysis of using BART for Multi-Document Summarization: A Study for English and German Language. <br>Timo Johner, Abhik Jana and Chris Biemann.| 
+|   | Grammatical Error Generation Based on Translated Fragments.<br>Eetu Sjöblom, Mathias Creutz and Teemu Vahtola. |
+|   | Creating Data in Icelandic for Text Normalization.<br>Helga Svala Sigurðardóttir, Anna Björk Nikulásdóttir and Jón Guðnason. |
+|   | The Danish Gigaword Corpus.<br>Leon Strømberg-Derczynski, Manuel Ciosici, Rebekah Baglini, Morten H. Christiansen, Jacob Aarup Dalsgaard, Riccardo Fusaroli, Peter Juel Henrichsen, Rasmus Hvingelby, Andreas Kirkedal, Alex Speed Kjeldsen, Claus Ladefoged, Finn Årup Nielsen, Jens Madsen, Malte Lau Petersen, Jonathan Hvithamar Rystrøm and Daniel Varab. |
+|   | DanFEVER: claim verification dataset for Danish.<br>Jeppe Nørregaard and Leon Derczynski. |
+|   | The Icelandic Word Web: A language technology-focused redesign of a lexicosemantic database.<br>Hjalti Daníelsson, Jón Hilmar Jónsson, Þórður Arnar Árnason, Alec Shaw, Einar Freyr Sigurðsson and Steinþór Steingrímsson.|
+|   | Getting Hold of Villains and other Rogues.<br>Manfred Klenner, Anne Göhring and Sophia Conrad. |
+|   | Talrómur: A large Icelandic TTS corpus.<br>Atli Sigurgeirsson, Þorsteinn Gunnarsson, Gunnar Örnólfsson, Eydís Magnúsdóttir, Ragnheiður Þórhallsdóttir, Stefán Jónsson and Jón Guðnason. |
+|   | NorDial: A Preliminary Corpus of Written Norwegian Dialect Use.<br>Jeremy Barnes, Petter Mæhlum and Samia Touileb. |
+|   | The Swedish Winogender Dataset.<br>Saga Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma and Dana Dannélls. |
+| 16:00-16:45  | Closing and announcement of next NoDaLiDa |
