@@ -81,7 +81,7 @@ Information about how to access individual workshops and sessions will be presen
 | 13:00-14:00  | NEALT business meeting |
 | **14:00-14:50**  | **Keynote: Adina Williams** 
 | 14:50-15:05  | Coffee break |
-| **15:15-16:30** | **Poster/demo session** |
+| **15:05-16:35** | **Poster/demo session** |
 |   | DaNLP: An open-source toolkit for Danish Natural Language Processing.<br>Amalie Brogaard Pauli, Maria Barrett, Ophélie Lacroix and Rasmus Hvingelby. |
 |   | HB Deid - HB De-identification tool demonstrator.<br>Hanna Berg and Hercules Dalianis. | 
 |   | Error Analysis of using BART for Multi-Document Summarization: A Study for English and German Language. <br>Timo Johner, Abhik Jana and Chris Biemann.| 
