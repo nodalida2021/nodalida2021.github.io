@@ -75,7 +75,7 @@ Information about how to access individual workshops and sessions will be presen
 | 11:50-12:15 | SuperSim: a test set for word similarity and relatedness in Swedish.<br>Simon Hengchen and Nina Tahmasebi. |
 | **11:00-12:15**  | **Parallel session B: Sentence-level Semantics**|
 | 11:00-11:25 | NLI Data Sanity Check: Assessing the Effect of Data Corruption on Model Performance.<br>Aarne Talman, Marianna Apidianaki, Stergios Chatzikyriakidis and Jörg Tiedemann. |
-| 11:25-11:50 | Finnish Paraphrase Corpus.<br>Evelina Rennes and Arne Jönsson.<br> Jenna Kanerva, Filip Ginter, Li-Hsin Chang, Iiro Rastas, Valtteri Skantsi, Jemina Kilpeläinen, Hanna-Mari Kupari, Jenna Saarni, Maija Sevón and Otto Tarkka.|
+| 11:25-11:50 | Finnish Paraphrase Corpus.<br> Jenna Kanerva, Filip Ginter, Li-Hsin Chang, Iiro Rastas, Valtteri Skantsi, Jemina Kilpeläinen, Hanna-Mari Kupari, Jenna Saarni, Maija Sevón and Otto Tarkka.|
 | 11:50-12:15 | Negation in Norwegian: an annotated dataset.<br>Petter Mæhlum, Jeremy Barnes, Robin Kurtz, Lilja Øvrelid and Erik Velldal. |
 | 12:15-13:00  | Lunch break |
 | 13:00-14:00  | NEALT business meeting |
