@@ -53,32 +53,42 @@ Information about how to accesss individual workshops and sessions will be prese
 |   | Should we Stop Training More Monolingual Models, and Simply Use Machine Translation Instead?<br>Tim Isbister, Fredrik Carlsson and Magnus Sahlgren. |
 
 
-## Wednesday October 2, 2019
+## Wednesday June 2, 2021
 
-| Time  | Session | Room |
-| ------------- | ------------- | ------------- |
-| **09:00-09:50**  | **[Keynote](https://nodalida2019.org/invited_speakers.html#grzegorz) by Grzegorz Chrupała: Investigating Neural Representations of Speech and Language**<br>Chair: Lilja Øvrelid | PUB1 |
-| 09:50-10:20  | Coffee break | |
-| **10:20-12:00**  | **Parallel session A: Sentiment Analysis and Stance**<br>Chair: Mathias Creutz | PUB1 |
-| 10:20-10:45  | Lexicon information in neural sentiment analysis: a multi-task learning approach.<br>Jeremy Claude Barnes, Samia Touileb, Lilja Øvrelid and Erik Velldal. | |
-| 10:45-11:10  | Aspect-Based Sentiment Analysis using BERT.<br>Mickel Hoang, Oskar Alija Bihorac and Jacobo Rouces. | |
-| 11:10-11:35  | Political Stance Detection for Danish.<br>Rasmus Lehmann and Leon Derczynski. | |
-| 11:35-12:00  | Joint Rumour Stance and Veracity Prediction.<br>Anders Edelbo Lillie, Emil Refsgaard Middelboe and Leon Derczynski. | |
-| **10:20-12:00**  | **Parallel session B: Named Entity Recognition**<br>Chair: Manex Agirrezabal | PUB3 |
-| 10:20-10:45  | Towards High Accuracy Named Entity Recognition for Icelandic.<br>Svanhvít Lilja Ingólfsdóttir, Sigurjón Þorsteinsson and Hrafn Loftsson. | |
-| 10:45-11:10  | Named-Entity Recognition for Norwegian.<br>Bjarte Johansen. | |
-| 11:10-11:35  | Neural Cross-Lingual Transfer and Limited Annotated Data for Named Entity Recognition in Danish.<br>Barbara Plank. | |
-| 11:35-12:00  | Projecting named entity recognizers without annotated or parallel corpora.<br>Jue Hou, Maximilian Koppatz, José María Hoya Quecedo and Roman Yangarber. | |
-| 12:00-13:00 | Lunch break | Holiday Club Caribia |
-| 13:00-14:00  | NEALT business meeting | PUB1 |
-| **14:00-15:15**  | **Parallel session A: Text Generation and Language Model Applications**<br>Chair: Leon Derczynski | PUB1 |
-| 14:00-14:25  | Template-free Data-to-Text Generation of Finnish Sports News.<br>Jenna Kanerva, Samuel Rönnqvist, Riina Kekki, Tapio Salakoski and Filip Ginter. | |
-| 14:25-14:50  | Matching Keys and Encrypted Manuscripts.<br>Eva Pettersson and Beata Megyesi. | |
-| 14:50-15:15  | The Seemingly (Un)systematic Linking Element in Danish.<br>Sidsel Boldsen and Manex Agirrezabal. | |
-| **14:00-15:15**  | **Parallel session B: Speech**<br>Chair: Grzegorz Chrupała | PUB3 |
-| 14:00-14:25  | Perceptual and acoustic analysis of voice similarities between parents and young children.<br>Evgeniia Rykova and Stefan Werner. | |
-| 14:25-14:50  | Enhancing Natural Language Understanding through Cross-Modal Interaction: Meaning Recovery from Acoustically Noisy Speech.<br>Ozge Alacam. | |
-| 14:50-15:15  | Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations.<br>Aarne Talman, Antti Suni, Hande Celikkanat, Sofoklis Kakouros, Jörg Tiedemann and Martti Vainio. | |
-| 15:15-15:45 | Coffee Break | |
-| **15:45-16:25** | **Tutorial on Finnish by [Fred Karlsson](https://en.wikipedia.org/wiki/Fred_Karlsson)**<br>Chair: Filip Ginter | PUB1 |
-| 16:25-16:35 | Closing and announcement of NoDaLiDa'21 | PUB1 |
+| Time  | Session |
+| ------------- | ------------- |
+| **09:00-10:40**  | **Parallel session A: Morphology & Syntax** |
+| 09:00-09:25  | Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered.<br>Mika Hämäläinen, Niko Partanen, Jack Rueter and Khalid Alnajjar. | 
+| 09:25-09:50  | CoDeRooMor: A new dataset for non-inflectional morphology studies of Swedish.<br>Elena Volodina, Yousuf Ali Mohammed and Therese Lindström Tiedemann. | 
+| 09:50-10:15  | Chunking Historical German.<br>Katrin Ortmann. | 
+| 10:15-10:40  | Part-of-speech tagging of Swedish texts in the neural era.<br>Yvonne Adesam and Aleksandrs Berdicevskis. |
+| **09:00-10:40**   | **Parallel session B: NLP applications**|
+| 09:00-09:25  | De-identification of Privacy-related Entities in Job Postings.<br>Kristian Nørgaard Jensen, Mike Zhang and Barbara Plank. | 
+| 09:25-09:50  | Creating and Evaluating a Synthetic Norwegian Clinical Corpus for De-Identification.<br>Synnøve Bråthen, Wilhelm Wie and Hercules Dalianis. | 
+| 09:50-10:15  | Applying and Sharing pre-trained BERT-models for Named Entity Recognition and Classification in Swedish Electronic Patient Records.<br>Mila Grancharova and Hercules Dalianis. | 
+| 10:15-10:40  | An Unsupervised method for OCR Post-Correction and Spelling Normalisation for Finnish.<br>Quan Duong, Mika Hämäläinen and Simon Hengchen. |
+| 10:40-11:00  | Coffee break |
+| **11:00-12:15**  | **Parallel session A: Lexical semantics & embeddings**|
+| 11:00-11:25 | Learning to Lemmatize in the Word Representation Space.<br>Jarkko Lagus and Arto Klami. |
+| 11:25-11:50 | Synonym Replacement based on a Study of Basic-level Nouns in Swedish Texts of Different Complexity.<br>Evelina Rennes and Arne Jönsson. |
+| 11:50-12:15 | SuperSim: a test set for word similarity and relatedness in Swedish.<br>Simon Hengchen and Nina Tahmasebi. |
+| **11:00-12:15**  | **Parallel session B: Sentence-level Semantics**|
+| 11:00-11:25 | NLI Data Sanity Check: Assessing the Effect of Data Corruption on Model Performance.<br>Aarne Talman, Marianna Apidianaki, Stergios Chatzikyriakidis and Jörg Tiedemann. |
+| 11:25-11:50 | Finnish Paraphrase Corpus.<br>Evelina Rennes and Arne Jönsson.<br> Jenna Kanerva, Filip Ginter, Li-Hsin Chang, Iiro Rastas, Valtteri Skantsi, Jemina Kilpeläinen, Hanna-Mari Kupari, Jenna Saarni, Maija Sevón and Otto Tarkka.|
+| 11:50-12:15 | Negation in Norwegian: an annotated dataset.<br>Petter Mæhlum, Jeremy Barnes, Robin Kurtz, Lilja Øvrelid and Erik Velldal. |
+| 12:15-13:00  | Lunch break |
+| 13:00-14:00  | NEALT business meeting |
+| **14:00-14:50**  | **Keynote: Adina Williams** 
+| 14:50-15:05  | Coffee break |
+| **15:15-16:30** | **Poster session** |
+|   | What Taggers Fail to Learn, Parsers Need the Most.<br>Mark Anderson and Carlos Gómez-Rodríguez. |
+|   | Investigation of Transfer Languages for Parsing Latin: Italic Branch vs. Hellenic Branch.<br>Antonia Karamolegkou and Sara Stymne. | 
+|   | Towards cross-lingual application of language-specific PoS tagging schemes. <br>Hinrik Hafsteinsson and Anton Karl Ingason.| 
+|   | Exploring the Importance of Source Text in Automatic Post-Editing for Context-Aware Machine Translation.<br>Chaojun Wang, Christian Hardmeier and Rico Sennrich. |
+|   | Chinese Character Decomposition for Neural MT with Multi-Word Expressions.<br>Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. |
+|   | Grapheme-Based Cross-Language Forced Alignment: Results with Uralic Languages.<br>Juho Leinonen, Sami Virpioja and Mikko Kurimo. |
+|   | Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation.<br>Tobias Norlund and Agnes Stenbom. |
+|   | It's Basically the Same Language Anyway: the Case for a Nordic Language Model.<br>Magnus Sahlgren, Fredrik Carlsson, Fredrik Olsson and Love Börjeson.|
+|   | Decentralized Word2Vec Using Gossip Learning.<br>Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas and Magnus Sahlgren. |
+|   | Multilingual ELMo and the Effects of Corpus Sampling.<br>Vinit Ravishankar, Andrey Kutuzov, Lilja Øvrelid and Erik Velldal. |
+|   | Should we Stop Training More Monolingual Models, and Simply Use Machine Translation Instead?<br>Tim Isbister, Fredrik Carlsson and Magnus Sahlgren. |
