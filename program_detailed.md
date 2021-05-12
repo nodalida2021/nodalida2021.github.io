@@ -40,24 +40,18 @@ Information about how to accesss individual workshops and sessions will be prese
 | 14:30-14:55 | Multilingual and Zero-Shot is Closing in on Monolingual Web Register Classification.<br>Samuel Rönnqvist, Valtteri Skantsi, Miika Oinonen and Veronika Laippala. |
 | 14:55-15:15  | Coffee break | 
 | **15:15-16:30** | **Poster session** |
-| 16:45-17:45 | Posters: | |
-|   | Compiling and Filtering ParIce: An English-Icelandic Parallel Corpus.<br>Starkaður Barkarson and Steinþór Steingrímsson. | |
-|   | May I Check Again? — A simple but efficient way to generate and use contextual dictionaries for Named Entity Recognition. Application to French Legal Texts.<br>Valentin Barriere and Amaury Fouret. | |
-|   | Predicates as Boxes in Bayesian Semantics for Natural Language.<br>Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin and Aleksandre Maskharashvili. | |
-|   | DIM: The Database of Icelandic Morphology.<br>Kristín Bjarnadóttir, Kristín Ingibjörg Hlynsdóttir and Steinþór Steingrímsson. | |
-|   | Bornholmsk Natural Language Processing: Resources and Tools.<br>Leon Derczynski and Alex Speed Kjeldsen. | |
-|   | Morphosyntactic Disambiguation in an Endangered Language Setting.<br>Jeff Ens, Mika Hämäläinen, Jack Rueter and Philippe Pasquier. | |
-|   | Tagging a Norwegian Dialect Corpus.<br>Andre Kåsen, Anders Nøklestad, Kristin Hagen and Joel Priestley. | |
-|   | The Lacunae of Danish Natural Language Processing.<br>Andreas Kirkedal, Barbara Plank, Leon Derczynski and Natalie Schluter. | |
-|   | Tools for supporting language learning for Sakha.<br>Sardana Ivanova, Anisia Katinskaia and Roman Yangarber. | |
-|   | Inferring morphological rules from small examples using 0/1 linear programming.<br>Ann Lillieström, Koen Claessen and Nicholas Smallbone. | |
-| 16:45-17:45 | Demos: | |
-|   | LEGATO: A flexible lexicographic annotation tool.<br>David Alfter, Therese Lindström Tiedemann and Elena Volodina. | |
-|   | The OPUS Resource Repository: An Open Package for Creating Parallel Corpora and Machine Translation Services.<br>Mikko Aulamo and Jörg Tiedemann. | |
-|   | Garnishing a phonetic dictionary for ASR intake.<br>Iben Nyholm Debess, Sandra Saxov Lamhauge and Peter Juel Henrichsen. | |
-|   | Docria: Processing and Storing Linguistic Data with Wikipedia.<br>Marcus Klang and Pierre Nugues. | |
-|   | UniParse: A universal graph-based parsing toolkit.<br>Daniel Varab and Natalie Schluter. | |
-| 19:30-23:00 | [Conference Dinner](https://nodalida2019.org/social.html) in the Turku Castle | |
+|   | What Taggers Fail to Learn, Parsers Need the Most.<br>Mark Anderson and Carlos Gómez-Rodríguez. |
+|   | Investigation of Transfer Languages for Parsing Latin: Italic Branch vs. Hellenic Branch.<br>Antonia Karamolegkou and Sara Stymne. | 
+|   | Towards cross-lingual application of language-specific PoS tagging schemes. <br>Hinrik Hafsteinsson and Anton Karl Ingason.| 
+|   | Exploring the Importance of Source Text in Automatic Post-Editing for Context-Aware Machine Translation.<br>Chaojun Wang, Christian Hardmeier and Rico Sennrich. |
+|   | Chinese Character Decomposition for Neural MT with Multi-Word Expressions.<br>Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. |
+|   | Grapheme-Based Cross-Language Forced Alignment: Results with Uralic Languages.<br>Juho Leinonen, Sami Virpioja and Mikko Kurimo. |
+|   | Boosting Neural Machine Translation from Finnish to Northern Sámi with Rule-Based Backtranslation.<br>Tobias Norlund and Agnes Stenbom. |
+|   | It's Basically the Same Language Anyway: the Case for a Nordic Language Model.<br>Magnus Sahlgren, Fredrik Carlsson, Fredrik Olsson and Love Börjeson.|
+|   | Decentralized Word2Vec Using Gossip Learning.<br>Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas and Magnus Sahlgren. |
+|   | Multilingual ELMo and the Effects of Corpus Sampling.<br>Vinit Ravishankar, Andrey Kutuzov, Lilja Øvrelid and Erik Velldal. |
+|   | Should we Stop Training More Monolingual Models, and Simply Use Machine Translation Instead?<br>Tim Isbister, Fredrik Carlsson and Magnus Sahlgren. |
+
 
 ## Wednesday October 2, 2019
 
