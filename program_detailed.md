@@ -16,7 +16,7 @@ Information about how to accesss individual workshops and sessions will be prese
 | ------------- | ------------- |
 | 09:00-09:15  | Opening |
 | **09:15-10:05**  | **Keynote: Lucia Specia** 
-| 10:05-10:35  | Coffee break | |
+| 10:05-10:35  | Coffee break | 
 | **10:35-12:15**  | **Parallel session A: Large-scale Language Models** |
 | 10:35-11:00  | WikiBERT Models: Deep Transfer Learning for Many Languages.<br>Sampo Pyysalo, Jenna Kanerva, Antti Virtanen and Filip Ginter. | 
 | 11:00-11:25  | EstBERT: A Pretrained Language-Specific BERT for Estonian.<br>Hasan Tanvir, Claudia Kittask, Sandra Eiche and Kairit Sirts. | 
@@ -27,25 +27,19 @@ Information about how to accesss individual workshops and sessions will be prese
 | 11:00-11:25  | Measuring Translationese across Levels of Expertise: Are Professionals more Surprising than Students?.<br>AYuri Bizzoni and Ekaterina Lapshinova-Koltunski. |
 | 11:25-11:50  | CombAlign: a Tool for Obtaining High-Quality Word Alignments.<br>Steinþór Steingrímsson, Hrafn Loftsson and Andy Way. |
 | 11:50-12:15  | Understanding Cross-Lingual Syntactic Transfer in Multilingual Recurrent Neural Networks.<br>Prajit Dhar and Arianna Bisazza. |
-| 12:15-13:45  | Lunch break |
-| **13:45-15:00**  | **Parallel session A: Semantics**<br>Chair: Marianna Apidianaki | PUB1 |
-| 13:45-14:10 | Comparing linear and neural models for competitive MWE identification.<br>Hazem Al Saied, Marie Candito and Mathieu Constant. | |
-| 14:10-14:35 | Language Modeling with Syntactic and Semantic Representation for Sentence Acceptability Predictions.<br>Adam Ek, Jean-Philippe Bernardy and Shalom Lappin. | |
-| 14:35-15:00  | A Wide-Coverage Symbolic Natural Language Inference System.<br>Stergios Chatzikyriakidis and Jean-Philippe Bernardy. | |
-| **13:45-15:00**  | **Parallel session B: Morphology and Syntax**<br>Chair: Kairit Sirts | PUB3 |
-| 13:45-14:10  | Ensembles of Neural Morphological Inflection Models.<br>Ilmari Kylliäinen and Miikka Silfverberg. | |
-| 14:10-14:35  | Nefnir: A high accuracy lemmatizer for Icelandic.<br>Svanhvít Lilja Ingólfsdóttir, Hrafn Loftsson, Jón Friðrik Daðason and Kristín Bjarnadóttir. | |
-| 14:35-15:00  | Syntax-based identification of light-verb constructions.<br>Silvio Ricardo Cordeiro and Marie Candito. | |
-| 15:00-15:30  | Coffee Break | |
-| **15:30-16:45**  | **Parallel session A: Machine Learning Applications, Text Classification**<br>Chair: Jenna Kanerva | PUB1 |
-| 15:30-15:55  | Natural Language Processing in Policy Evaluation: Extracting Policy Conditions from IMF Loan Agreements.<br>Joakim Åkerström, Adel Daoud and Richard Johansson. | |
-| 15:55-16:20  | Comparing the Performance of Feature Representations for the Categorization of the Easy-to-Read Variety vs Standard Language.<br>Marina Santini, Benjamin Danielsson and Arne Jönsson. | |
-| 16:20-16:45  | Unsupervised Inference of Object Affordance from Text Corpora.<br>Michele Persiani and Thomas Hellström. | |
-| **15:30-16:45** | **Parallel session B: Language Resources and Applications**<br>Chair: Elena Volodina | PUB3 |
-| 15:30-15:55  | Annotating evaluative sentences for sentiment analysis: a dataset for Norwegian.<br>Petter Mæhlum, Jeremy Claude Barnes, Lilja Øvrelid and Erik Velldal. | |
-| 15:55-16:20  | Interconnecting lexical resources and word alignment: How do learners get on with particle verbs?<br>David Alfter and Johannes Graën. | |
-| 16:20-16:45  | An Unsupervised Query Rewriting Approach Using N-gram Co-occurrence Statistics to Find Similar Phrases in Large Text Corpora.<br>Hans Moen, Laura-Maria Peltonen, Henry Suhonen, Hanna-Maria Matinolli, Riitta Mieronkoski, Kirsi Telen, Kirsi Terho, Tapio Salakoski and Sanna Salanterä. | |
-| **16:45-17:45** | **Poster and demo session** | Entrance hall |
+| 12:15-13:15  | Lunch break |
+| **13:15-14:55**  | **Parallel session A: Speech & Generation**|
+| 13:15-13:40 | Speaker Verification Experiments for Adults and Children using a shared embedding spaces.<br>Tuomas Kaseva, Hemant Kumar Kathania, Aku Rouhe and Mikko Kurimo. |
+| 13:40-14:05 | Spectral modification for recognition of children’s speech undermismatched conditions.<br>Hemant Kumar Kathania, Sudarsana Reddy Kadiri, Paavo Alku and Mikko Kurimo. |
+| 14:05-14:30  | A Baseline Document Planning Method for Automated Journalism.<br>Leo Leppänen and Hannu Toivonen. |
+| 14:30-14:55  | Assessing the Quality of Human-Generated Summaries with Weakly Supervised Learning.<br>Joakim Olsen, Arild Brandrud Næss and Pierre Lison. |
+| **13:15-14:55**  | **Parallel session B: IE & Text Classification**|
+| 13:15-13:40 | Knowledge Distillation for Swedish NER models: A Search for Performance and Efficiency.<br>Lovisa Hagström and Richard Johansson. |
+| 13:40-14:05 | Fine-grained Named Entity Annotation for Finnish.<br>Jouni Luoma, Li-Hsin Chang, Filip Ginter and Sampo Pyysalo. |
+| 14:05-14:30 | Survey and reproduction of computational approaches to dating of historical texts.<br>Sidsel Boldsen and Fredrik Wahlberg. |
+| 14:30-14:55 | Multilingual and Zero-Shot is Closing in on Monolingual Web Register Classification.<br>Samuel Rönnqvist, Valtteri Skantsi, Miika Oinonen and Veronika Laippala. |
+| 14:55-15:15  | Coffee break | 
+| **15:15-16:30** | **Poster session** |
 | 16:45-17:45 | Posters: | |
 |   | Compiling and Filtering ParIce: An English-Icelandic Parallel Corpus.<br>Starkaður Barkarson and Steinþór Steingrímsson. | |
 |   | May I Check Again? — A simple but efficient way to generate and use contextual dictionaries for Named Entity Recognition. Application to French Legal Texts.<br>Valentin Barriere and Amaury Fouret. | |
