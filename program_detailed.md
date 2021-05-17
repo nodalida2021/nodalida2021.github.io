@@ -1,6 +1,7 @@
 # Program
 
-Information about how to access individual workshops and sessions will be presented in [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
+The time zone for NoDaLiDa 2021 is **Central European Summer Time (CEST**).
+Information about how to access individual workshops and sessions will be presented in [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021).
 
 ## Monday May 31, 2021
 
