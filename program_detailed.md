@@ -55,6 +55,7 @@ Information about how to access individual workshops and sessions will be presen
 |   | Decentralized Word2Vec Using Gossip Learning.<br>Abdul Aziz Alkathiri, Lodovico Giaretta, Sarunas Girdzijauskas and Magnus Sahlgren. |
 |   | Multilingual ELMo and the Effects of Corpus Sampling.<br>Vinit Ravishankar, Andrey Kutuzov, Lilja Øvrelid and Erik Velldal. |
 |   | Should we Stop Training More Monolingual Models, and Simply Use Machine Translation Instead?<br>Tim Isbister, Fredrik Carlsson and Magnus Sahlgren. |
+| **16:30-18:00** | **Social event** |
 
 
 ## Wednesday June 2, 2021
