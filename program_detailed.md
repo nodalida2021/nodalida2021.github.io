@@ -26,7 +26,7 @@ Information about how to access individual workshops and sessions will be presen
 | 11:50-12:15  | Large-Scale Contextualised Language Modelling for Norwegian.<br>Andrey Kutuzov, Jeremy Barnes, Erik Velldal, Lilja Øvrelid and Stephan Oepen. |
 | **10:35-12:15**  | **Session 2: MT & Multilinguality**|
 | 10:35-11:00  | Extremely low-resource machine translation for closely related languages.<br>Maali Tars, Andre Tättar and Mark Fišel. |
-| 11:00-11:25  | Measuring Translationese across Levels of Expertise: Are Professionals more Surprising than Students?.<br>AYuri Bizzoni and Ekaterina Lapshinova-Koltunski. |
+| 11:00-11:25  | Measuring Translationese across Levels of Expertise: Are Professionals more Surprising than Students?.<br>Yuri Bizzoni and Ekaterina Lapshinova-Koltunski. |
 | 11:25-11:50  | CombAlign: a Tool for Obtaining High-Quality Word Alignments.<br>Steinþór Steingrímsson, Hrafn Loftsson and Andy Way. |
 | 11:50-12:15  | Understanding Cross-Lingual Syntactic Transfer in Multilingual Recurrent Neural Networks.<br>Prajit Dhar and Arianna Bisazza. |
 | 12:15-13:15  | Lunch break |
