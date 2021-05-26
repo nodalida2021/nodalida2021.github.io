@@ -13,7 +13,7 @@ Information about how to access individual workshops and sessions will be presen
 
 ## Tuesday June 1, 2021
 
-| Time  | Session | Accees|
+| Time  | Session | Access|
 | ------------- | ------------- | ------------- |
 | 09:00-09:15  | Opening | [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
 | **09:15-10:05**  | **Keynote: Lucia Specia** <br>Chair: Jörg Tiedemann | [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
