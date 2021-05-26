@@ -9,7 +9,7 @@ Information about how to access individual workshops and sessions will be presen
 | ------------- | ------------- | ------------- |
 | 09:00-17:00  | [Workshop on Modelling Translation: Translatology in the Digital Age](http://www.sfb1102.uni-saarland.de/?p=6582) | [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
 | 09:00-17:00  | [NLP for Computer-Assisted Language Learning (NLP4CALL 2021)](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2021) | [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
-| 09:00-17:00  | [Sustainable language representations for a changing world](https://spraakbanken.gu.se/en/news-and-events/conferences-and-workshops/sustainable-language-representations) | [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
+| 10:00-17:00  | [Sustainable language representations for a changing world](https://spraakbanken.gu.se/en/news-and-events/conferences-and-workshops/sustainable-language-representations) | [Trello](https://trello.com/b/QOmo4UDC/nodalida-2021)
 
 ## Tuesday June 1, 2021
 
