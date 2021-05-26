@@ -19,7 +19,7 @@ Information about how to access individual workshops and sessions will be presen
 | **09:15-10:05**  | **Keynote: Lucia Specia** <br>Chair: Jörg Tiedemann
 | 10:05-10:35  | Coffee break | 
 | 10:35-12:15  | Parallel sessions | 
-| **10:35-12:15**  | **Session 1: Large-scale Language Models** <br>Chair: Barbara Plank</br> |
+| **10:35-12:15**  | **Session 1: Large-scale Language Models** <br>Chair: Barbara Plank |
 | 10:35-11:00  | WikiBERT Models: Deep Transfer Learning for Many Languages.<br>Sampo Pyysalo, Jenna Kanerva, Antti Virtanen and Filip Ginter. | 
 | 11:00-11:25  | EstBERT: A Pretrained Language-Specific BERT for Estonian.<br>Hasan Tanvir, Claudia Kittask, Sandra Eiche and Kairit Sirts. | 
 | 11:25-11:50  | Operationalizing a National Digital Library: The Case for a Norwegian Transformer Model.<br>Per E Kummervold, Javier De la Rosa, Freddy Wetjen and Svein Arne Brygfjeld. | 
