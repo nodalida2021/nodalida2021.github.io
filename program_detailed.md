@@ -100,4 +100,4 @@ Information about how to access individual workshops and sessions will be presen
 |   | Talrómur: A large Icelandic TTS corpus.<br>Atli Sigurgeirsson, Þorsteinn Gunnarsson, Gunnar Örnólfsson, Eydís Magnúsdóttir, Ragnheiður Þórhallsdóttir, Stefán Jónsson and Jón Guðnason. |
 |   | NorDial: A Preliminary Corpus of Written Norwegian Dialect Use.<br>Jeremy Barnes, Petter Mæhlum and Samia Touileb. |
 |   | The Swedish Winogender Dataset.<br>Saga Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma and Dana Dannélls. |
-| 16:00-16:45  | Closing and announcement of next NoDaLiDa |
+| 16:35-16:45  | Closing and announcement of next NoDaLiDa |
